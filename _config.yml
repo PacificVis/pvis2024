@@ -71,6 +71,5 @@ exclude:
   - bin/
   - etc/
   - Readme.md
-  - kw
-  - test
   - theme
+  - work
