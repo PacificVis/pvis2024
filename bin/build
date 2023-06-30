@@ -6,7 +6,7 @@
 #  DESTINATION="--destination $d"
 #fi
 #bundle exec jekyll build $DESTINATION
-bundle exec jekyll build
+bundle exec jekyll build --destination docs
 #if [ -d $d ]; then
 #  echo "gitdir: /Users/wakita/Sites/gitrepos/pvis2024"
 #fi
