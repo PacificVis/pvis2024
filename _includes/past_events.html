@@ -1,0 +1,13 @@
+<h2>Previous Events</h2>
+
+<table>
+  <thead><th>Year</th><th>City</th><th>Dates</th><th>URL</th>
+  </thead>
+  <tbody>
+    {% for ev in site.data.pvis2024["Past Events"] %}
+    <tr><td>{{ev.Year}}</td><td>{{ev.City}}</td><td>{{ev.Dates}}</td><td><a href="{{ev.URL}}">Website</a></td></tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% comment %} Page not found:  2021, 2020, 2017, 2013 {% endcomment %}
