@@ -7,4 +7,4 @@ layout: home
 
 # PacificVis 2024
 
-The 17th Pacific Visualization Symposium (PacificVis 2014) will be held from April 23 through April 26, 2024 at Mita campus, Tokyo, Japan.
+The 17th Pacific Visualization Symposium (PacificVis 2014) will be held from April 23 through April 26, 2024 at [Mita campus](https://www.keio.ac.jp/en/maps/mita.html), [Keio University](https://www.keio.ac.jp/en/), Tokyo, Japan.
