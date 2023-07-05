@@ -1,4 +1,9 @@
 ---
+layout: home
+title: 'PacificVis 2024'
+permalink: '/'
+data: 2023-07-05
+---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
