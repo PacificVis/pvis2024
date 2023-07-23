@@ -2,7 +2,7 @@
 layout: single
 title: 'VisNotes (Short Paper) Track'
 permalink: '/cfp/note/'
-data: 2023-07-24
+date: 2023-07-24
 ---
 
 # Track-Specific Deadlines

@@ -2,7 +2,7 @@
 layout: home
 title: 'PacificVis 2024'
 permalink: '/'
-data: 2023-07-05
+date: 2023-07-05
 ---
 
 IEEE 17th Pacific Visualization Symposium (PacificVis 2024) will be held from April 23 through April 26, 2024 at [Mita campus](https://www.keio.ac.jp/en/maps/mita.html), [Keio University](https://www.keio.ac.jp/en/), Tokyo, Japan.

@@ -2,7 +2,7 @@
 layout: single
 title: 'TVCG Journal Paper Track'
 permalink: '/cfp/journal/'
-data: 2023-07-24
+date: 2023-07-24
 ---
 
 Submissions are invited to the new IEEE TVCG Journal Paper Track at IEEE PacificVis 2024. Papers demonstrating exceptional quality in terms of originality, rigor, and significance will be published in a special issue of IEEE Transactions on Visualization and Computer Graphics (TVCG). The acceptance rate is anticipated to be around 22%-25%, depending on the decisions from the review process. Following the initial notification of review results, conditionally accepted papers (including supplemental material) will undergo a revision and review cycle in order to ensure that they are acceptable for publication and presentation in TVCG. The paper and its supplemental material will also be submitted to the IEEE Digital Library in accordance with its standard terms and conditions.

@@ -2,7 +2,7 @@
 layout: single
 title: 'Conference Paper Track'
 permalink: '/cfp/conf/'
-data: 2023-07-24
+date: 2023-07-24
 ---
 
 Submissions are invited to the new Conference Paper Track at IEEE PacificVis 2024. Papers demonstrating high quality in terms of originality, rigor, and significance will be published in the IEEE conference proceedings. Both new submissions and papers rejected from the TVCG journal track are invited to this Conference Paper track. Be aware that, unlike in previous years, rejected papers from the TVCG journal track are not automatically submitted to the Conference Paper track. However, for such submissions we ask the authors to provide a revision document and we aim to include at least one previous reviewer in the reviewing process. Following the initial notification of review results, conditionally accepted papers (including supplemental material) will undergo a revision and review cycle in order to ensure that they are acceptable for publication and presentation in the conference proceedings. The paper and its supplemental material will also be submitted to the IEEE Digital Library, in accordance with its standard terms and conditions.

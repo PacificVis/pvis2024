@@ -1,9 +1,8 @@
 ---
 layout: single
-title: 'Paper Submission Guidelines
-'
+title: 'Paper Submission Guidelines'
 permalink: '/cfp/guidelines/'
-data: 2023-07-24
+date: 2023-07-24
 ---
 
 All tracks at IEEE PacificVis use similar submission and review processes. Please refer to the track CFPs for details specific to each track. 
@@ -15,7 +14,19 @@ Here is a summary of the most important submission guidelines:
 - Optional single-blind or double-blind - reviewers’ identities are not revealed. Authors may choose whether to anonymize their submission or not.
 - Optional reviewer continuity - because of the consecutive timelines, authors of rejected papers may choose to preserve the same reviewers from earlier tracks.
 
-<!-- Internal table of contents go here. -->
+# Contents
+
+- [Submission System](#submission-system)
+- [Formatting and Language Guidelines](#formatting-and-language-guidelines)
+- [Anonymization](#anonymization)
+- [Originality & Reuse of Text](#originality--reuse-of-text)
+- [Plagiarism Policy](#plagiarism-policy)
+- [Supplemental Material](#supplemental-material)
+- [Resubmissions and Reviewer Continuity](#resubmissions-and-reviewer-continuity)
+- [Accessibility](#accessibility)
+- [Generative AI Policy](#generative-ai-policy)
+- [Open Access Policy](#open-access-policy)
+- [Ethics Guidelines](#ethics-guidelines)
 
 # Submission System
 

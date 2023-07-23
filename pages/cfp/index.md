@@ -2,7 +2,7 @@
 layout: single
 title: 'Common Call for Papers'
 permalink: '/cfp/'
-data: 2023-07-24
+date: 2023-07-24
 ---
 
 IEEE PacificVis 2024 solicits novel research contributions and innovative applications in all areas of visualization. PacificVis is a unified visualization symposium covering topics such as information visualization, scientific visualization, visual analytics, and visualization applications in domains such as (but not limited to) biological sciences, education, machine learning, physical sciences, security, and social science.

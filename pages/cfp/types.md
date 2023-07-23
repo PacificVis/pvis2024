@@ -2,7 +2,7 @@
 layout: single
 title: 'Paper Types and Topics'
 permalink: '/cfp/types/'
-data: 2023-07-24
+date: 2023-07-24
 ---
 
 As a unified visualization symposium, IEEE PacificVis welcomes novel intellectual contributions from all areas of visualization research. This document gives an overview of the suggested paper types and corresponding topics for successful submissions.
