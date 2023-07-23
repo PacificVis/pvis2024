@@ -2,6 +2,8 @@
 main:
   - title: "home"
     url: https://pacificvis.github.io/pvis2024/
+  - title: "contribute"
+    url: /cfp/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -12,3 +14,19 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+contribute:
+  - title: Contribute
+    children:
+      - title: Common Call for Papers
+        url: /cfp/
+      - title: TVCG journal papers
+        url: /cfp/journal/
+      - title: Conference papers
+        url: /cfp/conf/
+      - title: Short papers (VisNotes)
+        url: /cfp/note/
+      - title: Paper Type and Topics
+        url: /cfp/types/
+      - title: Submission Guidelines
+        url: /cfp/guidelines

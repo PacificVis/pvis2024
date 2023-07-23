@@ -44,6 +44,13 @@ sass:
 atom_feed:
   hide: true
 
+defaults:
+  - scope:
+      path: "pages/cfp/*.md"
+    values:
+      sidebar:
+        nav: "contribute"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: 'Common Call for Papers'
-permalink: '/cfp/'
+title: "Common Call for Papers"
+permalink: "/cfp/"
 date: 2023-07-24
 ---
 
