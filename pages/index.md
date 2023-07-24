@@ -10,4 +10,4 @@ The technical papers program of PacificVis 2024 will include a new journal track
 
 # News
 
-- [Call for Papers](/pvis2024/cfp/) is out. (2024-07-24)
+- [Call for Papers](/pvis2024/cfp/) is out. (2023-07-24)
