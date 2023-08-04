@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: 'PacificVis 2024'
 permalink: '/'
 date: 2023-07-05

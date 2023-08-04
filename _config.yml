@@ -50,6 +50,13 @@ defaults:
     values:
       sidebar:
         nav: "contribute"
+  - scope:
+      path: "pages"
+      type: "pages"
+    values:
+      header:
+        image: /assets/images/teaser_keio.png
+        image_description: "IEEE 17th Pacific Visualization Symposium (PacificVis 2024) will be held from April 23 through April 26, 2024 at Mita campus, Keio University, Tokyo, Japan."
 
 # Exclude from processing.
 # The following items will not be processed, by default.
