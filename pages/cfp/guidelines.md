@@ -34,7 +34,11 @@ IEEE PacificVis uses the [Precision Conference System (PCS)](https://new.precisi
 
 # Formatting and Language Guidelines
 
+<!-- 2023-08-22 requested by Issei
 Each track uses slightly different paper formats and page lengths (summarized at [https://pacificvis.github.io/](https://pacificvis.github.io/)); here is an overview:
+-->
+
+Each track uses slightly different paper formats and page lengths:
 
 - TVCG journal paper track - TVCG journal format with 9 + 2 pages (with only acknowledgements and references on the last two pages).
 - Conference paper track - IEEE VGTC conference format with up to 10 pages.
