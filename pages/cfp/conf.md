@@ -17,7 +17,7 @@ Conference track - Papers due | November 22, 2023
 Conference track - Notifications (1st round) | December 22, 2023
 Conference track - Revisions due (2nd round) | January 15, 2024
 Conference track - Final notifications (2nd round) | January 29, 2024
-Conference track - Camera-ready papers due | February 12, 2024
+Conference track - Camera-ready papers due | February 12, 2024 (tentative)
 
 # Submission Instructions
 

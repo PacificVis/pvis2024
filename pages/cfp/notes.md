@@ -13,7 +13,7 @@ All below deadlines are at 11:59pm (23:59) AoE Anywhere on Earth (AoE).
 | :------- | :---- |
 VisNotes - Papers due | January 5, 2024
 VisNotes - Notifications | February 2, 2024
-VisNotes - Camera-ready papers due | February 12, 2024
+VisNotes - Camera-ready papers due | February 12, 2024 (tentative)
 
 # Submission Instructions
 

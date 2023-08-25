@@ -47,11 +47,13 @@ Each track uses slightly different paper formats and page lengths:
 
 Papers should include full-color figures throughout and we encourage authors to showcase their work with annotated, well described, large, and detailed graphics. We also encourage the placement of a teaser image at the top of the very first page to showcase your work visually. Reviewers appreciate high-quality submissions with correct English spelling and grammar: non-native English speakers may wish to enlist an English language editing service.
 
-<!--
+## Pre-Submission Checklist
+
 - Prepare a [high quality PDF](https://pacificvis.github.io/electronic.html)
+
 - (optional) Assemble [supplemental material](https://pacificvis.github.io/supplement.html) for the IEEE DL
-- IMPORTANT: go over the [Checklist](https://pacificvis.github.io/checklist.html)
--->
+
+- **IMPORTANT**: Go over the [Checklist](https://pacificvis.github.io/checklist.html)
 
 # Anonymization
 

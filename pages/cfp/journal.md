@@ -20,7 +20,7 @@ Journal track - Papers due | October 1, 2023
 Journal track - Notifications (1st round) | November 12, 2023
 Journal track - Revisions due (2nd round) | December 1, 2023
 Journal track - Final notifications (2nd round) | December 22, 2023
-Journal track - Camera-ready papers due | January 8, 2024
+Journal track - Camera-ready papers due | January 8, 2024 (tentative)
 
 # Submission Instructions
 
