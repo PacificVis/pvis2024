@@ -17,7 +17,7 @@ VisNotes - Camera-ready papers due | February 12, 2024
 
 # Submission Instructions
 
-Original, unpublished short papers of up to 6 pages are invited. All accepted papers will appear in the IEEE Digital Library. Manuscripts should be prepared according to the guide for authors given at https://pacificvis.github.io/.
+Original, unpublished short papers of up to 6 pages are invited. All accepted papers will appear in the IEEE Digital Library. Manuscripts should be prepared according to the guide for authors given at [https://pacificvis.github.io/camera.html](https://pacificvis.github.io/camera.html).github.io/.
 
 # Paper Chairs
 

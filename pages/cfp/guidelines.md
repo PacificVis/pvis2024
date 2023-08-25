@@ -46,6 +46,12 @@ Each track uses slightly different paper formats and page lengths:
 
 Papers should include full-color figures throughout and we encourage authors to showcase their work with annotated, well described, large, and detailed graphics. We also encourage the placement of a teaser image at the top of the very first page to showcase your work visually. Reviewers appreciate high-quality submissions with correct English spelling and grammar: non-native English speakers may wish to enlist an English language editing service.
 
+<!--
+- Prepare a [high quality PDF](https://pacificvis.github.io/electronic.html)
+- (optional) Assemble [supplemental material](https://pacificvis.github.io/supplement.html) for the IEEE DL
+- IMPORTANT: go over the [Checklist](https://pacificvis.github.io/checklist.html)
+-->
+
 # Anonymization
 
 IEEE PacificVis allows both double-blind (anonymized) and single-blind (not anonymized) submissions. Double-blind submissions are intended for those authors who want to submit their work anonymously. Double-blind submissions should NOT include author names or institutions on the cover page of the initial submission, and authors should make an effort to ensure that there is no identity-revealing information (or formulations) in the text. If it is not possible to anonymize without compromising scientific clarity, authors are free to reveal their identities upon submission.

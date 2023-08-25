@@ -10,8 +10,8 @@ IEEE PacificVis 2024 solicits novel research contributions and innovative applic
 IEEE PacificVis 2024 will be held in Tokyo, Japan on April 23-26, 2024. The symposium accepts a range of scientific contributions ranging from full research papers, short papers, and posters. This year, PacificVis has a TVCG journal paper track, a conference full paper track, and a short paper (VisNotes) track with consecutive deadlines. These tracks have separate calls for papers:
 
 - Call for papers - [TVCG journal papers](/pvis2024/cfp/journal/)
-- Call for papers - [conference papers](/pvis2024/cfp/conf/)
-- Call for papers - [short papers (VisNotes)](/pvis2024/cfp/note/)
+- Call for papers - [Conference papers](/pvis2024/cfp/conf/)
+- Call for papers - [Short papers (VisNotes)](/pvis2024/cfp/note/)
 
 The deadlines for the tracks are arranged so that papers rejected from an earlier track can be resubmitted to a following track (with optional reviewer continuity). All submitted papers will go through a two-stage review process to guarantee the publication of high-quality papers. Accepted papers will be presented orally at the conference and will also be published by IEEE and included in the [IEEE Digital Library](https://www.ieee.org/publications/subscriptions/products/mdl/ieeexplore-access.html). Papers accepted in the journal track will be published directly in [IEEE Transactions on Visualization and Computer Graphics (TVCG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945).
 
