@@ -40,9 +40,10 @@ Each track uses slightly different paper formats and page lengths (summarized at
 
 Each track uses slightly different paper formats and page lengths:
 
-- TVCG journal paper track - TVCG journal format with 9 + 2 pages (with only acknowledgements and references on the last two pages).
-- Conference paper track - IEEE VGTC conference format with up to 10 pages.
-- VisNotes paper track - IEEE VGTC conference format with up to 6 pages.
+- TVCG journal paper track - TVCG journal track format with 9 pages and up to 2 pages of references and acknowledgments (no images or body text)
+- Conference paper track - IEEE VGTC conference format with up to 10 pages (including references)
+.
+- VisNotes paper track - IEEE VGTC conference format with up to 6 pages (including references)
 
 Papers should include full-color figures throughout and we encourage authors to showcase their work with annotated, well described, large, and detailed graphics. We also encourage the placement of a teaser image at the top of the very first page to showcase your work visually. Reviewers appreciate high-quality submissions with correct English spelling and grammar: non-native English speakers may wish to enlist an English language editing service.
 

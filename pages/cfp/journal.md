@@ -24,7 +24,7 @@ Journal track - Camera-ready papers due | January 8, 2024
 
 # Submission Instructions
 
-Submissions are strictly limited to 9 pages, with an additional 2 pages of references. Accepted papers will be published in a special issue of IEEE Transactions on Visualization and Computer Graphics (TVCG). Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/journal/](https://tc.computer.org/vgtc/publications/journal/).
+Submissions are strictly limited to 9 pages and up to 2 pages of references and acknowledgments (no images or body text). Accepted papers will be published in a special issue of IEEE Transactions on Visualization and Computer Graphics (TVCG). Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/journal/](https://tc.computer.org/vgtc/publications/journal/).
 
 # Paper Chairs
 
