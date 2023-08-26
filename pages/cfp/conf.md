@@ -25,7 +25,7 @@ Conference track - Camera-ready papers due         | February 12, 2024 (tentativ
 
 # Submission Instructions
 
-Original, unpublished full papers of up to 10 pages (including references) are invited. The manuscript should be prepared according to the guide for authors given at [https://pacificvis.github.io/](https://pacificvis.github.io/).  All accepted papers will appear in the IEEE Digital Library.
+Original, unpublished full papers of up to 10 pages (including references) are invited. The manuscript should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/).  All accepted papers will appear in the IEEE Digital Library.
 
 # Paper Chairs
 

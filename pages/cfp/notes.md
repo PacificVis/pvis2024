@@ -17,7 +17,7 @@ VisNotes - Camera-ready papers due | February 12, 2024 (tentative)
 
 # Submission Instructions
 
-Original, unpublished short papers of up to 6 pages (including references) are invited. All accepted papers will appear in the IEEE Digital Library. Manuscripts should be prepared according to the guide for authors given at [https://pacificvis.github.io/camera.html](https://pacificvis.github.io/camera.html).
+Original, unpublished short papers of up to 6 pages (including references) are invited. All accepted papers will appear in the IEEE Digital Library. Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/).
 
 # Paper Chairs
 
