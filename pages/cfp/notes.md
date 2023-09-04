@@ -2,7 +2,7 @@
 layout: single
 title: 'VisNotes (Short Paper) Track'
 permalink: '/cfp/note/'
-date: 2023-07-24
+date: 2023-09-04
 ---
 
 PacificVis 2024 features a short paper track, called "Visualization Notes". The purpose of this track is to encourage young researchers to present their work and discuss with participants including senior researchers there. The submissions can be late-breaking results or work in progress, while they should be novel enough to attract interest from the visualization community. Both new submissions and papers rejected from the Conference Paper track are invited to be submitted to the Short Paper track (VisNotes).
