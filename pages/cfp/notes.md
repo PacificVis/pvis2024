@@ -20,7 +20,7 @@ VisNotes - Camera-ready papers due | February 12, 2024
 
 # Submission Instructions
 
-Original, unpublished short papers of up to 6 pages (reference included) are invited. All accepted papers will appear in the IEEE Digital Library. Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/).
+Original, unpublished short papers of up to 6 pages (reference included) are invited. Note that 6 pages is the length limit, not the expected length. All accepted papers will appear in the IEEE Digital Library. Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/).
 
 # Paper Chairs
 
