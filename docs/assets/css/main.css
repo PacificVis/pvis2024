@@ -5054,5 +5054,8 @@ body {
     height: 1px !important;
   }
 }
+img.circle {
+  border-radius: 50%;
+}
 
 /*# sourceMappingURL=main.css.map */
