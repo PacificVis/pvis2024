@@ -4,13 +4,10 @@
 <loc>https://pvis2024.github.io/pvis2024/test/cfp/</loc>
 </url>
 <url>
-<loc>https://pvis2024.github.io/pvis2024/committees/</loc>
+<loc>https://pvis2024.github.io/pvis2024/tmp/committees/</loc>
 </url>
 <url>
 <loc>https://pvis2024.github.io/pvis2024/cfp/conf/</loc>
-</url>
-<url>
-<loc>https://pvis2024.github.io/pvis2024/tmp/conf_pc/</loc>
 </url>
 <url>
 <loc>https://pvis2024.github.io/pvis2024/cfp/guidelines/</loc>
@@ -26,6 +23,9 @@
 </url>
 <url>
 <loc>https://pvis2024.github.io/pvis2024/cfp/note/</loc>
+</url>
+<url>
+<loc>https://pvis2024.github.io/pvis2024/tmp/conf_pc/</loc>
 </url>
 <url>
 <loc>https://pvis2024.github.io/pvis2024/cfp/types/</loc>

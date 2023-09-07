@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'Conference Committees'
-permalink: '/committees/'
+permalink: '/tmp/committees/'
 date: 2023-09-06
 ---
 
