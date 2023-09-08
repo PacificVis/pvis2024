@@ -31,9 +31,26 @@ date: 2023-09-06
 
 (TBA)
 
+{% comment %}
+| Name               | Affiliation        |
+|--------------------|--------------------|
+{% for member in site.data.pc_jrnl -%}
+{{ member.First }} {{ member.Family }} | {{ member.Affiliation }}
+{% endfor %}
+{% endcomment %}
+
+
 # Conference Track Program Committee Members
 
 (TBA)
+
+{% comment %}
+| Name               | Affiliation        |
+|--------------------|--------------------|
+{% for member in site.data.pc_conf -%}
+{{ member.First }} {{ member.Family }} | {{ member.Affiliation }}
+{% endfor %}
+{% endcomment %}
 
 # Visualization Notes Program Committee Members
 
