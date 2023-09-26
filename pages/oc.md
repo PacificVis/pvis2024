@@ -27,8 +27,6 @@ date: 2023-09-06
 
 # Journal Track Program Committee Members
 
-(TBA)
-
 | Name               | Affiliation        |
 |--------------------|--------------------|
 {% for member in site.data.pc_jrnl -%}
@@ -37,8 +35,6 @@ date: 2023-09-06
 
 
 # Conference Track Program Committee Members
-
-(TBA)
 
 | Name               | Affiliation        |
 |--------------------|--------------------|
