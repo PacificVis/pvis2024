@@ -14,9 +14,7 @@ date: 2023-09-06
 {% assign role = member.Role %}
 {% endif %}
 <div style="display: inline-block; width: 32%; text-align: center;">
-<!-- img src="{{site.url}}{{site.baseurl}}/assets/images/oc/{{ member.Photo }}" -->
-<!-- http://localhost/pvis2024/assets/images/oc/issei_fujishiro.jpg -->
-<img src="http://localhost//pvis2024/assets/images/oc/{{ member.Photo }}"
+<img src="/pvis2024/assets/images/oc/{{ member.Photo }}"
      class="circle" width="150" height="150" /><br />
 {{ member.Name }}<br/>
 ({{ member.Affiliation }})
