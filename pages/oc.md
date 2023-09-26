@@ -16,10 +16,8 @@ date: 2023-09-06
 <div style="display: inline-block; width: 32%; text-align: center;">
 <!-- img src="{{site.url}}{{site.baseurl}}/assets/images/oc/{{ member.Photo }}" -->
 <!-- http://localhost/pvis2024/assets/images/oc/issei_fujishiro.jpg -->
-{% comment %}
 <img src="http://localhost//pvis2024/assets/images/oc/{{ member.Photo }}"
      class="circle" width="150" height="150" /><br />
-{% endcomment %}
 {{ member.Name }}<br/>
 ({{ member.Affiliation }})
 </div>
@@ -31,26 +29,22 @@ date: 2023-09-06
 
 (TBA)
 
-{% comment %}
 | Name               | Affiliation        |
 |--------------------|--------------------|
 {% for member in site.data.pc_jrnl -%}
 {{ member.First }} {{ member.Family }} | {{ member.Affiliation }}
 {% endfor %}
-{% endcomment %}
 
 
 # Conference Track Program Committee Members
 
 (TBA)
 
-{% comment %}
 | Name               | Affiliation        |
 |--------------------|--------------------|
 {% for member in site.data.pc_conf -%}
 {{ member.First }} {{ member.Family }} | {{ member.Affiliation }}
 {% endfor %}
-{% endcomment %}
 
 # Visualization Notes Program Committee Members
 
