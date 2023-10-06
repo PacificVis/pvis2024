@@ -30,6 +30,10 @@ Conference track - Papers due | November 22, 2023
 Conference track - Notifications | December 22, 2023
 VisNotes - Papers due | January 5, 2024
 VisNotes - Notifications | February 2, 2024
+Poster - Summary Submission | February 9, 2024
+Poster - Summary Notification | March 1, 2024
+
+
 
 
 Track-specific dates for revisions and camera-ready deadlines are given in the respective CFPs above. Below can be found the submission instructions common to all three tracks.
