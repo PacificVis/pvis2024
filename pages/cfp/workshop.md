@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'Workshop'
-permalink: '/tmp/cfp/workshop/'
+permalink: '/cfp/workshop/'
 date: 2023-10-12
 ---
 
