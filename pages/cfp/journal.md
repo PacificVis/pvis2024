@@ -31,3 +31,6 @@ Submissions are strictly limited to 9 pages and up to 2 pages of references and 
 - Niklas Elmqvist - Aarhus University, Denmark
 - Shixia Liu - Tsinghua University, China
 - Valerio Pascucci - University of Utah, USA
+
+# Contact
+
