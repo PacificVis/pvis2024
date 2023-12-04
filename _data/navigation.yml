@@ -6,6 +6,8 @@ main:
     url: /cfp/
   - title: "committees"
     url: /committees/
+  - title: "venue"
+    url: /venue/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
