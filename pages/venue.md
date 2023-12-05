@@ -1,11 +1,11 @@
 ---
 layout: single
 title: 'Venue'
-permalink: '/tmp-venue/'
+permalink: '/venue/'
 date: 2023-12-04
 ---
 
-PacificVis 2024 will be held in the Mita campus of Keio University. All sessions will take place in the conference hall of the North building (Building No.1 on [this map](https://www.keio.ac.jp/en/assets/images/maps/mita/img_05_EN.jpg)) located in the vicinity of the north gate. 
+PacificVis 2024 will be held in the Mita campus of Keio University. All sessions will take place in the North building (Building No.1 on [this map](https://www.keio.ac.jp/en/assets/images/maps/mita/img_05_EN.jpg)) located in the vicinity of the east gate and the north gate. 
 
 
 > Mita Campus, Keio University<br/>
@@ -18,13 +18,13 @@ The campus is 8 minutes walk from the Tamachi station on JR Yamanote Line and JR
 
 ## From Narita International Airport by train
 
-The most cost-effective way is to take the Keisei Skyliner bound for Keisei Ueno station and get off at Nippori station, just one stop before the terminal Keisei Ueno station. Then transfer to JR Yamanote Line or JR Keihin-Tohoku Line bound for Tokyo and Shinagawa to go to Tamachi Station. Another way is to take the JR Narita Express, get off at Shinagawa station, and transfer to the JR Yamanote Line of the JR Keihin-Tohoku Line bound for Tokyo and Ueno to go to Tamachi Station. Note that all the JR Narita expresses pass through stations up to Shinagawa after Tokyo.
+The most cost-effective way is to take the Keisei Skyliner bound for Keisei Ueno station and get off at Nippori station, just one stop before the terminal Keisei Ueno station. Then transfer to JR Yamanote Line or JR Keihin-Tohoku Line bound for Tokyo and Shinagawa to get to Tamachi Station. Another way is to take the JR Narita Express, get off at Shinagawa station, and transfer to the JR Yamanote Line of the JR Keihin-Tohoku Line bound for Tokyo and Ueno to get to Tamachi Station. Note that all the JR Narita expresses pass through stations up to Shinagawa after Tokyo.
 
 See more details on [the web page](https://www.keio.ac.jp/en/maps/mita.html).
 
 ## From Tokyo International Airport (Haneda Airport) by train
 
-The most cost effective way is to take Keikyu Airport Limited Express Line and get off at Sengakuji station. Then transfer to Toei Asakusa Metro Line to go to Mita Station. Another way is to take Tokyo Monorail Line bound for Hamamatsucho and get off at Hamamatsucho station. Then transfer to JR Yamanote Line or JR Keihin-Tohoku Line to go to Tamachi Station.
+The most cost effective way is to take Keikyu Airport Limited Express Line and get off at Sengakuji station. Then transfer to Toei Asakusa Metro Line to go to Mita Station. Another way is to take Tokyo Monorail Line bound for Hamamatsucho and get off at Hamamatsucho station. Then transfer to JR Yamanote Line or JR Keihin-Tohoku Line to get to Tamachi Station.
 
 See more details on [the web page](https://www.keio.ac.jp/en/maps/mita.html).
 
