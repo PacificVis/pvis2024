@@ -5,7 +5,7 @@ permalink: '/venue/'
 date: 2023-12-04
 ---
 
-PacificVis 2024 will be held in the Mita campus of Keio University. All sessions will take place in the North building (Building No.1 on [this map](https://www.keio.ac.jp/en/assets/images/maps/mita/img_05_EN.jpg)) located in the vicinity of the east gate and the north gate. 
+PacificVis 2024 will be held in the Mita campus of Keio University. All sessions will take place in the North building (Building No.10 on [this map](https://www.keio.ac.jp/en/assets/images/maps/mita/img_05_EN.jpg)) located in the vicinity of the east gate and the north gate.
 
 
 > Mita Campus, Keio University<br/>
