@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'JapanVis'
-permalink: '/cfp/tmp/japanvis/'
+permalink: '/cfp/japanvis/'
 date: 2023-12-22
 ---
 
