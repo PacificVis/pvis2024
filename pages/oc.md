@@ -42,4 +42,8 @@ date: 2023-09-06
 
 # Visualization Notes Program Committee Members
 
-(TBA)
+| Name               | Affiliation        |
+|--------------------|--------------------|
+{% for member in site.data.pc_notes -%}
+{{ member.Name }} | {{ member.Affiliation }}
+{% endfor %}
