@@ -32,3 +32,8 @@ The work should encompass a concise description of the background, problem state
 
 Submissions undergo a juried selection process, offering lighter feedback without author responses or conditional acceptances, and not necessitating the same level of contribution as refereed content. Posters are subject to a single-blind review by co-chairs, primarily evaluating abstracts and considering additional materials when available.
 
+# Poster Chairs
+
+- Masahiko Itoh - Hokkaido Information University, Japan
+- Nam Wook Kim - Boston College, USA
+- Dongyu Liu - UC Davis, USA
