@@ -80,7 +80,7 @@ Early registration closing date	  April 2, 2024.
     - Each registration package includes access to the paper, keynote, reception, coffee breaks, with one banquet ticket.
     - Additional banquet tickets (12,000 JPY each) can be purchased.
     - For an invitation letter or a visa support letter for your visa application, please find them in the visa information page.
-    - You can choose vegetarian dietary when you are registering for a conference.
+    - If you have a special meal request , please let us know when registering.
 
 1. Cancellation Policy
     - All registrations are not refundable.
