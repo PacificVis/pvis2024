@@ -40,3 +40,20 @@ See more details on [the web page](https://www.keio.ac.jp/en/maps/mita.html).
 - [Airport Limousine](https://webservice.limousinebus.co.jp/web/en/) -- Bus connection for both Narita and Haneda airports
 
 - [Tokyu Line](http://www.tokyu.co.jp/global/) -- "Railway Information"
+
+---
+# Accommodation
+
+This symposium does not provide official hotel arrangements, but the following are representative hotels within walking distance from the venue.
+
+| Hotel | Distance | Wolking time | Price range (JPY) |
+| :--- | :--- | :--- | ---: |
+{% for hotel in site.data.HotelsList -%}
+| [{{ hotel.Hotel }}]({{ hotel.url }}) | {{ hotel.distance }} | {{ hotel.time }} | {{ hotel.price }} |
+{% endfor %}
+
+In addition to these, you can find many other hotels near Shinagawa, Hamamatsucho, Shimbashi, Yurakucho, and so on. 
+
+The following website may also be helpful.
+
+[Explore Japan (`japan-guide.com`)](https://japan-guide.com/)

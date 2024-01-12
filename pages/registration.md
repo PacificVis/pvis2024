@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'Registration'
-permalink: '/tmp/registration/'
+permalink: '/registration/'
 date: 2023-01-12
 ---
 

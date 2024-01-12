@@ -2,12 +2,14 @@
 main:
   - title: "home"
     url: https://pacificvis.github.io/pvis2024/
+  - title: "attend"
+    url: /registration/
+  - title: "venue"
+    url: /venue/
   - title: "contribute"
     url: /cfp/
   - title: "committees"
     url: /committees/
-  - title: "venue"
-    url: /venue/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
