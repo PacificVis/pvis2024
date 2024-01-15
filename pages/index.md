@@ -9,4 +9,5 @@ IEEE 17th Pacific Visualization Symposium (PacificVis 2024) will be hosted by [t
 
 # News
 
+- [Venue (accomodation)](/pvis2024/venue/) and [attend](/pvis2024/registration/) information is added. (2024-01-15)
 - [Call for Papers](/pvis2024/cfp/) is out. (2023-07-24)
