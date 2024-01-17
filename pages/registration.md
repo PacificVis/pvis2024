@@ -2,7 +2,7 @@
 layout: single
 title: 'Registration'
 permalink: '/registration/'
-date: 2023-01-12
+date: 2023-01-17
 ---
 
 [Registration is open on Peatix with credit card.](https://pacificvis2024.peatix.com)
@@ -25,7 +25,9 @@ Early registration closing date	  April 2, 2024.
 
 # Registration Types and Fees
 
+<!--
 - IEEE member fee is applicable to members of the Visualization Society of Japan (VSJ). 
+-->
 
 - If you are a registered attendee of PacificVis 2024, you can attend JapanVis 2024 free of charge. Please note that presenters of JapanVis2024 need to register separately for JapanVis 2024. For more information, [visit the JapanVis website](https://vsj.jp/japanvis2024/en/index.html).
 
@@ -34,21 +36,21 @@ Early registration closing date	  April 2, 2024.
 
 | | Journal papers, Conference papers, VisNotes, Vis Meets AI Workshop papers | Posters, Visual Storytelling contest works |
 | :--- | :--- | :--- | :--- |
-| IEEE/VSJ Member Fee | 80,000 JPY | 60,000 JPY |
-| Non-IEEE/VSJ Member Fee | 96,000 JPY | 72,000 JPY |
-| Student IEEE/VSJ Member Fee | 56,000 JPY | 42,000 JPY |
-| Student Non-IEEE/VSJ Member Fee | 67,200 JPY | 50,400 JPY |
-| Life-time IEEE/VSJ Member Fee |44,000 JPY | - |
+| IEEE Member Fee | 80,000 JPY | 60,000 JPY |
+| Non-IEEE Member Fee | 96,000 JPY | 72,000 JPY |
+| Student IEEE Member Fee | 56,000 JPY | 42,000 JPY |
+| Student Non-IEEE Member Fee | 67,200 JPY | 50,400 JPY |
+| Life-time IEEE Member Fee |44,000 JPY | - |
 
 
 # Conference Registration
 
 | | Early Registration | Late Registration |
-| IEEE/VSJ Member Fee | 50,000 JPY | 70,000 JPY |
-| Non-IEEE/VSJ Member Fee | 60,000 JPY | 84,000 JPY |
-| Student IEEE/VSJ Member Fee | 35,000 JPY | 49,000 JPY |
-| Student Non-IEEE/VSJ Member Fee | 42,000 JPY | 58,800 JPY |
-| Life-time IEEE/VSJ Member Fee | 27,500 JPY | 38.500 JPY |
+| IEEE Member Fee | 50,000 JPY | 70,000 JPY |
+| Non-IEEE Member Fee | 60,000 JPY | 84,000 JPY |
+| Student IEEE Member Fee | 35,000 JPY | 49,000 JPY |
+| Student Non-IEEE Member Fee | 42,000 JPY | 58,800 JPY |
+| Life-time IEEE Member Fee | 27,500 JPY | 38.500 JPY |
 
 
 # Registration Information
