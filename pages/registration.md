@@ -23,13 +23,13 @@ Author registration closing dates
 Early registration closing date	  April 2, 2024.
 
 
+<!--
 # Registration Types and Fees
 
-<!--
 - IEEE member fee is applicable to members of the Visualization Society of Japan (VSJ). 
--->
 
 - If you are a registered attendee of PacificVis 2024, you can attend JapanVis 2024 free of charge. Please note that presenters of JapanVis2024 need to register separately for JapanVis 2024. For more information, [visit the JapanVis website](https://vsj.jp/japanvis2024/en/index.html).
+-->
 
 
 # Author Registration
