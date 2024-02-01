@@ -2,7 +2,7 @@
 layout: single
 title: 'Registration'
 permalink: '/registration/'
-date: 2023-01-17
+date: 2023-02-01
 ---
 
 [Registration is open on Peatix with credit card.](https://pacificvis2024.peatix.com)
