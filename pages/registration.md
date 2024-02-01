@@ -18,7 +18,7 @@ Author registration closing dates
 | Conference papers / VisNotes | February 29, 2024 |
 | Posters | March 31, 2024 |
 | Vis Meets AI Workshop papers | TBA |
-| Visual Storytelling Contest works | TBA |
+| Visual Data Storytelling Contest | TBA |
 
 Early registration closing date	  April 2, 2024.
 
@@ -34,7 +34,7 @@ Early registration closing date	  April 2, 2024.
 
 # Author Registration
 
-| | Journal papers, Conference papers, VisNotes, Vis Meets AI Workshop papers | Posters, Visual Storytelling contest works |
+| | Journal papers, Conference papers, VisNotes, Vis Meets AI Workshop papers | Posters, Visual Data Storytelling Contest |
 | :--- | :--- | :--- | :--- |
 | IEEE Member Fee | 80,000 JPY | 60,000 JPY |
 | Non-IEEE Member Fee | 96,000 JPY | 72,000 JPY |
@@ -66,7 +66,7 @@ Early registration closing date	  April 2, 2024.
             | Conference papers / Vis notes | February 29, 2024 |
             | Posters | March 31, 2024 |
             | Vis Meets AI workshop papers | TBA |
-            | Visual Storytelling Contest works | TBA |
+            | Visual Data Storytelling Contest | TBA |
 
         - Each registration package includes access to the proceedings, keynote and workshops, reception, coffee breaks, with one banquet ticket.
         - Additional banquet tickets (12,000 JPY each) can be purchased.
