@@ -112,6 +112,7 @@ The scope of supports envisaged include but are not limited to:
 - Travel and accommodation
 - Audiovisual support during conference participation
 - Childcare.
+
 Note that eligible applicants must be aged 18 years or older.
 
 Recipients will be required to send in original expense receipts or evidence of payment to the committee for reimbursement after the conference.
