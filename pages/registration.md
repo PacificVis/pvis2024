@@ -103,6 +103,8 @@ The visa invitation letter will be issued after confirming the registration. If 
 | Visa Invitation Letters | **Name:**: Issei Fujishiro (General chair)
 | | **Email**: `pvis_visa@pvis.org` |
 
+<!--
+
 # Diversity, Inclusivity, and Accessibility (DIA) Program
 
 IEEE PacificVis welcomes participants of all backgrounds and identities. To that end, PacificVis 2024 offers a variety of financial supports. The DIA Committee reviews all applications and determines the distribution of funds based on the qualifications of candidate and the need of their case.
@@ -130,3 +132,5 @@ PacificVis 2024 DIA Committee
 - Yuki Igarashi (Ochanomizu University, Registration Chair)
 - Yuriko Takeshima (Tokyo University of Technology, Financial Chair)
 - Issei Fujishiro (Keio University, General Chair)
+
+-->
