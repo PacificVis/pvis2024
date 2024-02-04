@@ -103,34 +103,25 @@ The visa invitation letter will be issued after confirming the registration. If 
 | Visa Invitation Letters | **Name:**: Issei Fujishiro (General chair)
 | | **Email**: `pvis_visa@pvis.org` |
 
-<!--
 
 # Diversity, Inclusivity, and Accessibility (DIA) Program
 
-IEEE PacificVis welcomes participants of all backgrounds and identities. To that end, PacificVis 2024 offers a variety of financial supports. The DIA Committee reviews all applications and determines the distribution of funds based on the qualifications of candidate and the need of their case.
+[IEEE PacificVis](https://pacificvis.github.io/pvis2024/) is dedicated to ensuring an inclusive and accessible environment for all attendees. Our commitment extends to providing comprehensive assistance to attendees with disabilities, such as visual or hearing impairments. Furthermore, in a concerted effort to foster the involvement of underrepresented or historically marginalized groups, PacificVis 2024 has established need-based scholarships to facilitate their attendance at the conference.
 
-The scope of supports envisaged include but are not limited to:
-- Complimentary conference registration
-- Travel and accommodation
-- Audiovisual support during conference participation
-- Childcare.
+The PacificVis 2024 DIA Committee will review scholarship applications based on eligibility, need, and impact. Scholarships awarded may be used to pay for conference registration, travel and accommodation, audio/visual support during conference participation, childcare, and other costs of attending the conference. 
 
-Note that eligible applicants must be aged 18 years or older.
+Scholarship recipients will need to submit original expense receipts or evidence of payment to the committee for reimbursement after the conference.
 
-Recipients will be required to send in original expense receipts or evidence of payment to the committee for reimbursement after the conference.
-
-If you would like to help, do not hesitate to e-mail your request that includes the required information in any format to<br/> `pvis24-dia@googlegroups.co.jp`.
-- Application deadline: March 31, 2024
-- Notifications of acceptance: April 15, 2024
+[Submit your application with this form](https://docs.google.com/forms/d/e/1FAIpQLSdZ7_3xcUqlNs3U8sMCraePozQoTQFPt1FtyWmJ_6-0xW8y8w/viewform):
+- Application deadline: April 2nd, 2024 (AOE)
+- Notifications of acceptance: April 15th, 2024 (AOE)
 
 ## Inquiry and Support
 
-If you have any questions about or you are interested in supporting the PacificVis DIA Program, please contact us at<br/> `pvis24-dia@googlegroups.co.jp.`
+If you have any questions about the DIA program, please contact us at pvis-dia@googlegroups.com.
 
-PacificVis 2024 DIA Committee
+## PacificVis 2024 DIA Committee
 - Yuta Sugiura (Keio University, DIA Chair)
 - Yuki Igarashi (Ochanomizu University, Registration Chair)
 - Yuriko Takeshima (Tokyo University of Technology, Financial Chair)
 - Issei Fujishiro (Keio University, General Chair)
-
--->
