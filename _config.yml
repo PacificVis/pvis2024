@@ -51,6 +51,11 @@ defaults:
       sidebar:
         nav: "contribute"
   - scope:
+      path: "pages/attend/*.md"
+    values:
+      sidebar:
+        nav: "attend"
+  - scope:
       path: "pages"
       type: "pages"
     values:

@@ -3,7 +3,7 @@ main:
   - title: "home"
     url: https://pacificvis.github.io/pvis2024/
   - title: "attend"
-    url: /registration/
+    url: /attend/
   - title: "program"
     url: /accepted/
   - title: "venue"
@@ -46,3 +46,17 @@ contribute:
         url: /cfp/types/
       - title: Submission Guidelines
         url: /cfp/guidelines
+
+attend:
+  - title: Attend
+    children:
+      - title: Attend
+        url: /attend/
+      - title: Registration
+        url: /attend/registration/
+      - title: Diversity, Inclusivity, and Accessibility Program
+        url: /attend/dia/
+      - title: Social Events
+        url: /attend/events/
+      - title: Venue
+        url: /venue/
