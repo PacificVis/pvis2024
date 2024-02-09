@@ -58,6 +58,7 @@ Early registration closing date	  April 2, 2024.
 
 1. Author Registration
     1. Registration
+
         - Author Registration fees are not refundable.
         - The author registration deadlines are:
 
@@ -78,14 +79,14 @@ Early registration closing date	  April 2, 2024.
 
     1. Paper Information/Rules
 
-      - Journal papers, Conference papers, VisNotes, and Vis Meets AI Workshop papers
-        - Each paper must have at least one full registration whether the registrant is a student or not.
-        - Each full registration is valid for one paper.
+        Journal papers, Conference papers, VisNotes, and Vis Meets AI Workshop papers
+        :   - Each paper must have at least one full registration whether the registrant is a student or not.
+            - Each full registration is valid for one paper.
 
-      - Posters, Visual Data Storytelling Contest
-        - Each paper must have at least one registration.
+        Posters, Visual Data Storytelling Contest
+        :   - Each paper must have at least one registration.
 
-      - The author registering for the paper does not need to be the same as the paper presenter.
+        The author registering for the paper does not need to be the same as the paper presenter.
 
 1. Conference Registration
     - Each registration package includes access to the paper, keynote, reception, coffee breaks, with one banquet ticket.
