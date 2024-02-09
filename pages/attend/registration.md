@@ -38,9 +38,9 @@ Early registration closing date	  April 2, 2024.
 | :--- | ---: | ---: |
 | IEEE Member Fee | 80,000 JPY | 60,000 JPY |
 | Non-IEEE Member Fee | 96,000 JPY | 72,000 JPY |
-| Student IEEE Member Fee | --- | 42,000 JPY |
-| Student Non-IEEE Member Fee | --- | 50,400 JPY |
-| Life-time IEEE Member Fee |44,000 JPY | - |
+| Student IEEE Member Fee | 56,000 JPY | 42,000 JPY |
+| Student Non-IEEE Member Fee | 67,200 JPY | 50,400 JPY |
+| Life-time IEEE Member Fee |44,000 JPY | --- |
 
 
 # Conference Registration
@@ -49,8 +49,8 @@ Early registration closing date	  April 2, 2024.
 | :--- | ---: | ---: |
 | IEEE Member Fee | 50,000 JPY | 70,000 JPY |
 | Non-IEEE Member Fee | 60,000 JPY | 84,000 JPY |
-| Student IEEE Member Fee | 35,000 JPY | 49,000 JPY |
-| Student Non-IEEE Member Fee | 42,000 JPY | 58,800 JPY |
+| Student IEEE Member Fee | --- | 49,000 JPY |
+| Student Non-IEEE Member Fee | --- | 58,800 JPY |
 | Life-time IEEE Member Fee | 27,500 JPY | 38.500 JPY |
 
 
