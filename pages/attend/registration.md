@@ -35,17 +35,18 @@ Early registration closing date	  April 2, 2024.
 # Author Registration
 
 | | Journal papers, Conference papers, VisNotes, Vis Meets AI Workshop papers | Posters, Visual Data Storytelling Contest |
-| :--- | :--- | :--- | :--- |
+| :--- | ---: | ---: |
 | IEEE Member Fee | 80,000 JPY | 60,000 JPY |
 | Non-IEEE Member Fee | 96,000 JPY | 72,000 JPY |
-| Student IEEE Member Fee | 56,000 JPY | 42,000 JPY |
-| Student Non-IEEE Member Fee | 67,200 JPY | 50,400 JPY |
+| Student IEEE Member Fee | --- | 42,000 JPY |
+| Student Non-IEEE Member Fee | --- | 50,400 JPY |
 | Life-time IEEE Member Fee |44,000 JPY | - |
 
 
 # Conference Registration
 
 | | Early Registration | Late Registration |
+| :--- | ---: | ---: |
 | IEEE Member Fee | 50,000 JPY | 70,000 JPY |
 | Non-IEEE Member Fee | 60,000 JPY | 84,000 JPY |
 | Student IEEE Member Fee | 35,000 JPY | 49,000 JPY |
@@ -68,17 +69,25 @@ Early registration closing date	  April 2, 2024.
             | Vis Meets AI workshop papers | TBA |
             | Visual Data Storytelling Contest | TBA |
 
+        - Author registration fee includes publication cost.
+
         - Each registration package includes access to the proceedings, keynote and workshops, reception, coffee breaks, with one banquet ticket.
         - Additional banquet tickets (12,000 JPY each) can be purchased.
         - For an invitation letter or a visa support letter for your visa application, please find them in the visa information page.
         - If you have a special meal request , please let us know when registering.
 
     1. Paper Information/Rules
-        - Each paper (Journal papers, Conference papers, VisNotes, and Vis Meets AI Workshop papers) must have at least one full registration whether the registrant is a student or not.
-        - Each full registration is valid for one paper (Journal, Full conference, VisNotes, and Vis Meets AI Workshop).
-        - The author registering for the paper does not need to be the same as the paper presenter.
 
-1. Full Registration
+      - Journal papers, Conference papers, VisNotes, and Vis Meets AI Workshop papers
+        - Each paper must have at least one full registration whether the registrant is a student or not.
+        - Each full registration is valid for one paper.
+
+      - Posters, Visual Data Storytelling Contest
+        - Each paper must have at least one registration.
+
+      - The author registering for the paper does not need to be the same as the paper presenter.
+
+1. Conference Registration
     - Each registration package includes access to the paper, keynote, reception, coffee breaks, with one banquet ticket.
     - Additional banquet tickets (12,000 JPY each) can be purchased.
     - For an invitation letter or a visa support letter for your visa application, please find them in the visa information page.
