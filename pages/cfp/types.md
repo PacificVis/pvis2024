@@ -7,7 +7,7 @@ date: 2023-07-24
 
 As a unified visualization symposium, IEEE PacificVis welcomes novel intellectual contributions from all areas of visualization research. This document gives an overview of the suggested paper types and corresponding topics for successful submissions.
 
-# Technique Papers
+## Technique Papers
 
 Technique papers mainly involve novel algorithms, visual encoding methods, and/or interaction techniques for data analysis, exploration, or communication. Techniques may be specialized for specific devices or form-factors (e.g., mobile or wall-scale visualization). Topics in this category include but are not limited to:
 
@@ -55,7 +55,7 @@ Technique papers mainly involve novel algorithms, visual encoding methods, and/o
     - Distributed Systems, Grid, and Cloud Environments
     - Volume Graphics Hardware
 
-# Systems Papers
+## Systems Papers
 
 System papers include new software frameworks, languages, or tools for visualization; systems for large-scale visualization; integrated graphical systems for visual analysis or interactive machine learning; collaborative and web-scale visualization systems. Ttopics in this category include but are not limited to:
 
@@ -65,7 +65,7 @@ System Taxonomies and Design Patterns
 - Visual Data Warehousing, Database Visualization, and Visual Data Mining Systems
 - Collaborative and Distributed Visualization Systems
 
-# Applications & Design Studies Papers
+## Applications & Design Studies Papers
 
 These papers involve the novel use of visualization to address problems in an application domain, including accounts of innovative system design, deployment and impact. Topics in this category include but are not limited to:
 
@@ -81,7 +81,7 @@ These papers involve the novel use of visualization to address problems in an ap
 - Education and Everyday Visualization
 - Multimedia (Image/Video/Music) Visualization
 
-# Evaluation & Empirical Research Papers
+## Evaluation & Empirical Research Papers
 
 Evaluation papers include comparative evaluation of competing visualization approaches; controlled experiments to inform visualization best practices; longitudinal and qualitative studies to understand user needs, visualization adoption, and use. Topics in this category include but are not limited to:
 
@@ -95,7 +95,7 @@ Evaluation papers include comparative evaluation of competing visualization appr
 - Metrics and Benchmarks
 - Use of Eye Tracking and Other Biometric Measures
 
-# Theory Papers
+## Theory Papers
 
 Theory papers often involve models of visual encoding, interaction, and/or analysis tasks; implications from theories of perception, cognition, design, and/or aesthetics; methods for automated design or visualization recommendation. Topics in this category include but are not limited to:
 

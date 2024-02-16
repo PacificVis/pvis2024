@@ -5,7 +5,7 @@ permalink: '/accepted/'
 date: 2024-01-30
 ---
 
-# Banquet: April 25 (Thu)
+## Banquet: April 25 (Thu)
 
 The PacifivVis 2024 banquet takes place on a cruise boat!
 
@@ -17,25 +17,25 @@ In the course of modernization, the cityscape of Edo, once ruled by Samurai warr
 
 ---
 
-# TVCG Papers Accepted in Journal Track
+## TVCG Papers Accepted in Journal Track
 
 {% for p in site.data.accepted_tvcg_jrnl -%}
 - {{ p.authors }}, "{{ p.title }}."
 {% endfor %}
 
-# TVCG Papers from Regular Issues
+## TVCG Papers from Regular Issues
 
 {% for p in site.data.tvcg_regular -%}
 - {{ p.authors }}, "{{ p.title }}."
 {% endfor %}
 
-# Papers Accepted in Conference Track
+## Papers Accepted in Conference Track
 
 {% for p in site.data.accepted_conf -%}
 - {{ p.authors }}, "{{ p.title }}."
 {% endfor %}
 
-# Papers Accepted in Visualization Notes Track
+## Papers Accepted in Visualization Notes Track
 
 {% for p in site.data.accepted_notes -%}
 - {{ p.authors }}, "{{ p.title }}."

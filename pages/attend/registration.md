@@ -8,7 +8,7 @@ date: 2023-02-01
 [Registration is open on Peatix with credit card.](https://pacificvis2024.peatix.com)
 
 
-# Registration Timeline
+## Registration Timeline
 
 Author registration closing dates
 
@@ -32,7 +32,7 @@ Early registration closing date	  April 2, 2024.
 -->
 
 
-# Author Registration
+## Author Registration
 
 | | Journal papers, Conference papers, VisNotes, Vis Meets AI Workshop papers | Posters, Visual Data Storytelling Contest |
 | :--- | ---: | ---: |
@@ -43,7 +43,7 @@ Early registration closing date	  April 2, 2024.
 | Life-time IEEE Member Fee |44,000 JPY | --- |
 
 
-# Conference Registration
+## Conference Registration
 
 | | Early Registration | Late Registration |
 | :--- | ---: | ---: |
@@ -54,7 +54,7 @@ Early registration closing date	  April 2, 2024.
 | Life-time IEEE Member Fee | 27,500 JPY | 38.500 JPY |
 
 
-# Registration Information
+## Registration Information
 
 1. Author Registration
     1. Registration
@@ -97,14 +97,14 @@ Early registration closing date	  April 2, 2024.
 1. Cancellation Policy
     - All registrations are not refundable.
 
-# Optional Item
+## Optional Item
 
 | Item | Date | Fee |
 | :--- | :--- | :--- |
 | Banquet | April 25, 2023 | 12,000 JPY |
 
 
-# Visa Information
+## Visa Information
 
 The visa invitation letter will be issued after confirming the registration. If delivery of the related printed documents by courier service is required, the actual cost may be charged. If you have any questions regarding VISA, please email us at the information below.
 
@@ -114,6 +114,6 @@ The visa invitation letter will be issued after confirming the registration. If 
 | | **Email**: `pvis_visa@pvis.org` |
 
 
-# Diversity, Inclusivity, and Accessibility (DIA) Program
+## Diversity, Inclusivity, and Accessibility (DIA) Program
 
 IEEE PacificVis is dedicated to ensuring an inclusive and accessible environment for all attendees. Our commitment extends to providing comprehensive assistance to attendees with disabilities, such as visual or hearing impairments.  ([More on the Diversity, Inclusivity, and Accessibility (DIA) Program ...](/pvis2024/attend/dia/))

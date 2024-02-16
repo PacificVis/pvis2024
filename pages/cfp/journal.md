@@ -9,7 +9,7 @@ Submissions are invited to the new IEEE TVCG Journal Paper Track at IEEE Pacific
 
 Note that the deadlines for the journal and conference paper tracks are explicitly organized so that a paper rejected to the TVCG journal paper track can optionally be revised and resubmitted to the conference paper track (if the authors so desire). During the resubmission process, the authors can choose to maintain reviewer continuity (with at least one reviewer and the full reviews from the TVCG journal track available) or have the paper be treated like a new submission. We encourage authors of rejected papers to take advantage of this mechanism.
 
-# Track-Specific Deadlines
+## Track-Specific Deadlines
 
 All below deadlines are at 11:59pm (23:59) AoE Anywhere on Earth (AoE).
 
@@ -22,15 +22,15 @@ Journal track - Revisions due (2nd round) | December 1, 2023
 Journal track - Final notifications (2nd round) | December 22, 2023
 Journal track - Camera-ready papers due | January 8, 2024 (tentative)
 
-# Submission Instructions
+## Submission Instructions
 
 Submissions are strictly limited to 9 pages and up to 2 pages of references and acknowledgments (no images or body text). Accepted papers will be published in a special issue of IEEE Transactions on Visualization and Computer Graphics (TVCG). Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/journal/](https://tc.computer.org/vgtc/publications/journal/).
 
-# Paper Chairs
+## Paper Chairs
 
 - Niklas Elmqvist - Aarhus University, Denmark
 - Shixia Liu - Tsinghua University, China
 - Valerio Pascucci - University of Utah, USA
 
-# Contact
+## Contact
 

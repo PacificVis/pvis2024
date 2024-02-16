@@ -15,14 +15,14 @@ date: 2023-09-06
 
 ---
 
-# Organization Committee Members
+## Organization Committee Members
 
 {% assign role = '' %}
 
 {% for member in site.data.oc -%}
 {% if role != member.Role %}
 
-## {{ member.Role }}
+### {{ member.Role }}
 {% assign role = member.Role %}
 {% endif %}
 <div style="display: inline-block; width: 32%; text-align: center;">
@@ -35,7 +35,7 @@ date: 2023-09-06
 
 ---
 
-# Journal Track Program Committee Members
+## Journal Track Program Committee Members
 
 | Name               | Affiliation        |
 |--------------------|--------------------|
@@ -44,7 +44,7 @@ date: 2023-09-06
 {% endfor %}
 
 
-# Conference Track Program Committee Members
+## Conference Track Program Committee Members
 
 | Name               | Affiliation        |
 |--------------------|--------------------|
@@ -52,7 +52,7 @@ date: 2023-09-06
 {{ member.First }} {{ member.Family }} | {{ member.Affiliation }}
 {% endfor %}
 
-# Visualization Notes Program Committee Members
+## Visualization Notes Program Committee Members
 
 | Name               | Affiliation        |
 |--------------------|--------------------|

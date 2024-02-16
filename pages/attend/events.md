@@ -5,7 +5,7 @@ permalink: '/attend/events/'
 date: 2023-02-04
 ---
 
-# Banquet: April 25 (Thu)
+## Banquet: April 25 (Thu)
 
 The PacifivVis 2024 banquet takes place on a cruise boat!
 

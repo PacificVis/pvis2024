@@ -17,7 +17,7 @@ IEEE PacificVis 2024 will be held in Tokyo, Japan on April 23-26, 2024. The symp
 The deadlines for the tracks are arranged so that papers rejected from an earlier track can be resubmitted to a following track (with optional reviewer continuity). All submitted papers except short papers (VisNotes) will go through a two-stage review process to guarantee the publication of high-quality papers. Accepted papers will be presented orally at the conference and will also be published by IEEE and included in the [IEEE Digital Library](https://www.ieee.org/publications/subscriptions/products/mdl/ieeexplore-access.html). Papers accepted in the journal track will be published directly in [IEEE Transactions on Visualization and Computer Graphics (TVCG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945).
 
 
-# Important Dates
+## Important Dates
 
 All below deadlines are at 11:59pm (23:59) AoE Anywhere on Earth (AoE).
 
@@ -40,17 +40,17 @@ Poster - Summary Notification | March 1, 2024
 Track-specific dates for revisions and camera-ready deadlines are given in the respective CFPs above. Below can be found the submission instructions common to all three tracks.
 
 
-# Paper Type and Topics
+## Paper Type and Topics
 
 See the separate document on [paper types and topics](/pvis2024/cfp/types/) of interest for IEEE PacificVis.
 
 
-# Submission Guidelines
+## Submission Guidelines
 
 When preparing your submission, please make sure that you carefully read and adhere to the [paper submission guidelines](/pvis2024/cfp/guidelines/).
 
 
-# Reviewing Process and Review Criteria
+## Reviewing Process and Review Criteria
 
 IEEE PacificVis papers undergo a rigorous review process over multiple rounds of reviewing (VisNotes have a slightly shorter review process). Some papers may be desk rejected—rejected before they enter this detailed peer reviewing—by the papers chairs if they determine that the submission is clearly out of scope for the conference, is written using poor language that precludes effective communication, does not follow the formatting guidelines, or is otherwise not appropriate.
 
