@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "home"
-    url: https://pacificvis.github.io/pvis2024/
+# - title: "home"
+#   url: https://pacificvis.github.io/pvis2024/
   - title: "attend"
     url: /attend/
   - title: "program"
-    url: /accepted/
+    url: /papers/
   - title: "venue"
     url: /venue/
   - title: "contribute"
@@ -60,3 +60,11 @@ attend:
         url: /attend/events/
       - title: Venue
         url: /venue/
+
+accepted:
+  - title: TVCG papers
+    url: /papers/jrnl/
+  - title: Conference Track
+    url: /papers/conf/
+  - title: Visualization Notes Track
+    url: /papers/notes/

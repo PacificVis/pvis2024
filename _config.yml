@@ -56,6 +56,11 @@ defaults:
       sidebar:
         nav: "attend"
   - scope:
+      path: "pages/papers/*.md"
+    values:
+      sidebar:
+        nav: "accepted"
+  - scope:
       path: "pages"
       type: "pages"
     values:
