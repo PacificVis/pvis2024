@@ -18,3 +18,36 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [
 - [The list of TVCG papers](/pvis2024/accepted/) (accepted for journal paper track, and from regular issues) is added. (2024-01-18)
 - [Venue (accommodation)](/pvis2024/venue/) and [attend](/pvis2024/registration/) information is added. (2024-01-15)
 - [Call for Papers](/pvis2024/cfp/) is out. (2023-07-24)
+
+# Sponsors
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <!-- tr bordercolor="red">
+        <td width="33%">
+           <a href="https://www.ieee.org/"><img src="assets/images/sponsers/IEEE-logo.jpg"></a>
+        </td>
+        <td width="33%">
+           <a href="https://www.computer.org/"><img src="assets/images/sponsers/IEEE-CS_LogoTM-black.jpg"></a>
+        </td>    
+        <td height="33%">
+           <a href="https://tc.computer.org/vgtc/"><img src="assets/images/sponsers/vgtclogo-128_128.jpg"></a>
+        </td>
+    </tr -->
+    <tr>
+        <td width="50%">
+           <a href="https://www.cgarts.or.jp/"><img src="assets/images/sponsors/cg-arts.jpg"></a>
+        </td>
+        <td width="50%">
+           <a href="https://www.hpctech.co.jp/"><img src="assets/images/sponsors/hpctech.jpg"></a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+           <!--a href="https://www.hpctech.co.jp/"--><img src="assets/images/sponsors/kashika.png"><!-- /a -->
+        </td>
+    </tr>
+</table>
+
+# Academic Sponsors
+
+<p><a href="https://www.keio.ac.jp/en/"><img width="33%" src="assets/images/sponsors/keio.png"></a></p>

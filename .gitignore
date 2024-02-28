@@ -11,5 +11,6 @@ vendor/
 _data/pvis2024.json    # The "bin/gsheet" scripts exports the Google sheet to this JSON.
 
 # Working directories
+shared
 theme
 work
