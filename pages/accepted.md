@@ -40,3 +40,9 @@ In the course of modernization, the cityscape of Edo, once ruled by Samurai warr
 {% for p in site.data.accepted_notes -%}
 - {{ p.authors }}, "{{ p.title }}."
 {% endfor %}
+
+## Papers Accepted in Visualization Meets AI Workshop
+
+{% for p in site.data.accepted_visxai -%}
+- {{ p.authors }}, "{{ p.title }}."
+{% endfor %}

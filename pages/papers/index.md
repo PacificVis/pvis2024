@@ -14,6 +14,8 @@ date: 2024-02-16
 
 - [Papers Accepted in Visualization Notes Track](/pvis2024/papers/notes/)
 
+- [Papers Accepted in Visualization Meets AI Workshop](/pvis2024/papers/visxai/)
+
 ---
 
 [Keynotes](/pvis2024/program/keynote/)
