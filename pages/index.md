@@ -43,7 +43,7 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [
     </tr>
     <tr>
         <td width="50%">
-           <!--a href="https://www.hpctech.co.jp/"--><img src="assets/images/sponsors/kashika.png"><!-- /a -->
+           <a href="https://kashika.co.jp/"><img src="assets/images/sponsors/kashika.png"></a>
         </td>
     </tr>
 </table>
