@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Papers Accepted in Visualization Notes Track'
+title: 'Papers Accepted in Visualization Meets AI Workshop'
 permalink: '/papers/visxai/'
 date: 2024-02-28
 ---
