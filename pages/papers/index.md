@@ -5,7 +5,6 @@ permalink: '/papers/'
 date: 2024-02-16
 ---
 
-
 - [TVCG Papers Accepted in Journal Track](/pvis2024/papers/jrnl/)
 
 - [TVCG Papers from Regular Issues](/pvis2024/papers/jrnl/#tvcg-papers-from-regular-issues)
@@ -15,6 +14,8 @@ date: 2024-02-16
 - [Papers Accepted in Visualization Notes Track](/pvis2024/papers/notes/)
 
 - [Papers Accepted in Visualization Meets AI Workshop](/pvis2024/papers/visxai/)
+
+- [Poster Presentations](/pvis2024/papers/posters/)
 
 ---
 

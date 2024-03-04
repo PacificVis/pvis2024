@@ -64,9 +64,11 @@ attend:
 accepted:
   - title: TVCG papers
     url: /papers/jrnl/
-  - title: Conference Track
+  - title: Conference papers
     url: /papers/conf/
-  - title: Visualization Notes Track
+  - title: Visualization Notes
     url: /papers/notes/
   - title: Visualization Meets AI Workshop
     url: /papers/visxai/
+  - title: Posters
+    url: /papers/posters/  
