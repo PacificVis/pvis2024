@@ -51,7 +51,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 
 # Co-Sponsor
 
-<p style="width: 20%; margin: auto; padding: 20px 0; text-align: center"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio.png"></a><br/>Keio University, Faculty of Science and Technology</p>
+<p style="width: 20%; margin: auto; padding: 20px 0; text-align: center"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio.png"></a><br/>Faculty of Science and Technology, Keio University</p>
 
 # Special Supporter
 
@@ -86,7 +86,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 </style>
 
 <div class="grid-container-supporters" style="width: 60%; margin: auto;">
-<div class="ark"><a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/ark.png"></a></div>
+<div class="ark"><a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/ark.svg"></a></div>
 <div class="cgarts"><a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/cg-arts.jpg"></a></div>
 <div class="hpctech"><a href="https://www.hpctech.co.jp/"><img src="assets/images/supporters/hpctech.jpg"></a></div>
 
