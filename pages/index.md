@@ -51,7 +51,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 
 # Co-Sponsor
 
-<p style="width: 20%; margin: auto; padding: 20px 0; text-align: center"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio.png"></a><br/>Faculty of Science and Technology, Keio University</p>
+<p style="width: 20%; margin: auto; padding: 20px 0; text-align: center"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio.png"></a><br/><span style="font-weight: 700;">Faculty of Science and Technology<br/>Keio University</span></p>
 
 # Special Supporter
 
