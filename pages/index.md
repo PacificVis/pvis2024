@@ -33,8 +33,9 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
   grid-template-areas:
     'ieee ieee_cs vgtc';
   text-align: center;
-  gap: 20px;
+  gap: 40px;
   padding: 10px;
+  place-items: center;
 }
 
 .grid-container-sponsors > div {
@@ -90,12 +91,11 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 <style>
 .grid-container-supporters {
   display: grid;
-  grid-template-columns: auto;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-areas:
     'cgarts cgarts ark ark'
     'hpctech hpctech kashika kashika';
-  text-align: center;
+  place-items: center;
   gap: 10px;
   padding: 10px;
 }
@@ -104,7 +104,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 .ark { grid-area: ark; }
 .cgarts { grid-area: cgarts; }
 .hpctech { grid-area: hpctech; }
-.kashika { grid-area: kashika; }
+.kashika { grid-area: kashika; width: 70%; }
 
 .grid-container-supporters > div {
   padding: 20px 0;
@@ -117,5 +117,5 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 <div class="cgarts"><a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/cg-arts.jpg"></a></div>
 <div class="hpctech"><a href="https://www.hpctech.co.jp/"><img src="assets/images/supporters/hpctech.jpg"></a></div>
 
-<div class="kashika"><a href="https://kashika.co.jp/"><img src="assets/images/supporters/kashika.png" style="width: 70%;"></a></div>
+<div class="kashika"><a href="https://kashika.co.jp/"><img src="assets/images/supporters/kashika.png"></a></div>
 <div>
