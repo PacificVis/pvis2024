@@ -84,7 +84,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 }
 </style>
 
-<div class="grid-container-supporters" style="width: 80%; margin: auto;">
+<div class="grid-container-supporters" style="width: 60%; margin: auto;">
 <div class="cgarts"><a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/cg-arts.jpg"></a></div>
 <div class="hpctech"><a href="https://www.hpctech.co.jp/"><img src="assets/images/supporters/hpctech.jpg"></a></div>
 
