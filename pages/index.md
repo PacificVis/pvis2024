@@ -22,19 +22,27 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [
 
 # Sponsors
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr bordercolor="red">
-        <td width="33%">
-           <a href="https://www.ieee.org/"><img src="assets/images/sponsors/IEEE-logo.jpg"></a>
-        </td>
-        <td width="33%">
-           <a href="https://www.computer.org/"><img src="assets/images/sponsors/IEEE-CS_LogoTM-black.jpg"></a>
-        </td>    
-        <td height="33%">
-           <a href="https://tc.computer.org/vgtc/"><img src="assets/images/sponsors/vgtclogo-128_128.jpg"></a>
-        </td>  
-    </tr>
-</table>
+<style>
+.grid-container-sponsors {
+  display: grid;
+  grid-template-areas:
+    'ieee ieee_cs vgtc';
+  text-align: center;
+  gap: 20px;
+  padding: 10px;
+}
+
+.grid-container-sponsors > div {
+  padding: 20px 0;
+  font-size: 30px;
+}
+</style>
+
+<div class="grid-container-sponsors">
+<div><a href="https://www.ieee.org/"><img src="assets/images/sponsors/IEEE-logo.jpg"></a></div>
+<div><a href="https://www.computer.org/"><img src="assets/images/sponsors/IEEE-CS_LogoTM-black.jpg"></a></div>
+<div><a href="https://tc.computer.org/vgtc/"><img src="assets/images/sponsors/vgtclogo-128_128.jpg"></a></div>
+</div>
 
 # Co-Sponsor
 
@@ -42,7 +50,39 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [
 
 # Supporters
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<style>
+.grid-container-supporters {
+  display: grid;
+  grid-template-areas:
+    'none1 none1 taf taf taf taf none2 none2'
+    'none1 none1 cgarts cgarts hpctech hpctech none2 none2'
+    'none1 none1 none3 kashika kashika none4 none2 none2';
+  text-align: center;
+  gap: 10px;
+  padding: 10px;
+}
+
+.taf { grid-area: taf; }
+.cgarts { grid-area: cgarts; }
+.hpctech { grid-area: hpctech; }
+.kashika { grid-area: kashika; }
+
+.grid-container-supporters > div {
+  padding: 20px 0;
+  font-size: 30px;
+}
+</style>
+
+<div class="grid-container-supporters">
+<div class="taf"><a href="https://www.taf.or.jp/"><img src="assets/images/supporters/taf.jpg"></a></div>
+
+<div class="cgarts"><a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/cg-arts.jpg"></a></div>
+<div class="hpctech"><a href="https://www.hpctech.co.jp/"><img src="assets/images/supporters/hpctech.jpg"></a></div>
+
+<div class="kashika"><a href="https://kashika.co.jp/"><img src="assets/images/supporters/kashika.png"></a></div>
+<div>
+
+<!-- table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="33%" align="center">
          <a href="https://www.taf.or.jp/"><img src="assets/images/supporters/taf.jpg"></a>
@@ -63,4 +103,4 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [
       </td>
       <td width="33%"></td>
     </tr>
-</table>
+</table -->
