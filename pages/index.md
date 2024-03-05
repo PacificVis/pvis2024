@@ -50,7 +50,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 
 # Co-Sponsor
 
-<p style="width: 27%; margin: auto; padding: 20px 0"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio.png"></a></p>
+<p style="width: 15%; margin: auto; padding: 20px 0"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio.png"></a></p>
 
 # Special Supporter
 
