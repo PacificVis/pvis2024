@@ -2,7 +2,7 @@
 layout: single
 title: 'PacificVis 2024'
 permalink: '/'
-date: 2024-02-01
+date: 2024-03-05
 ---
 
 IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [the Faculty of Science and Technology](https://www.st.keio.ac.jp/en/),  [Keio University](https://www.keio.ac.jp/en/), from April 23 through April 26, 2024 at [Mita campus](https://www.keio.ac.jp/en/maps/mita.html), Tokyo, Japan. The technical papers program of PacificVis 2024 will include a new journal track in addition to a conference track and a VisNotes track. Papers accepted by the journal track will be included in a special issue of IEEE TVCG. [Call for papers for each track](/pvis2024/cfp/) is available. For general inquiries, please email Professor Issei Fujishiro, the general chair, at [ifujishiro@keio.jp](mailto:ifujishiro@keio.jp).
@@ -50,7 +50,12 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 
 # Co-Sponsor
 
-<p><a href="https://www.keio.ac.jp/en/"><img width="33%" src="assets/images/sponsors/keio.png"></a></p>
+<p style="width: 27%; margin: auto; padding: 20px 0"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio.png"></a></p>
+
+# Special Supporter
+
+<p style="width: 80%; margin: auto; padding: 40px 0"><a href="https://www.taf.or.jp/"><img src="assets/images/supporters/taf.jpg"></a></p>
+
 
 # Supporters
 
@@ -58,7 +63,6 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 .grid-container-supporters {
   display: grid;
   grid-template-areas:
-    'none1 none1 taf taf taf taf none2 none2'
     'none1 none1 cgarts cgarts hpctech hpctech none2 none2'
     'none1 none1 none3 kashika kashika none4 none2 none2';
   text-align: center;
@@ -66,7 +70,6 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
   padding: 10px;
 }
 
-.taf { grid-area: taf; }
 .cgarts { grid-area: cgarts; }
 .hpctech { grid-area: hpctech; }
 .kashika { grid-area: kashika; }
@@ -78,8 +81,6 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 </style>
 
 <div class="grid-container-supporters">
-<div class="taf"><a href="https://www.taf.or.jp/"><img src="assets/images/supporters/taf.jpg"></a></div>
-
 <div class="cgarts"><a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/cg-arts.jpg"></a></div>
 <div class="hpctech"><a href="https://www.hpctech.co.jp/"><img src="assets/images/supporters/hpctech.jpg"></a></div>
 
