@@ -66,14 +66,15 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
   grid-template-columns: auto;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-areas:
-    'cgarts cgarts hpctech hpctech'
-    'none3 kashika kashika none4';
+    'ark ark cgarts cgarts'
+    'hpctech hpctech kashika kashika';
   text-align: center;
   gap: 10px;
   padding: 10px;
 }
 
 .none1 { grid-area: none1; }
+.ark { grid-area: ark; }
 .cgarts { grid-area: cgarts; }
 .hpctech { grid-area: hpctech; }
 .kashika { grid-area: kashika; }
@@ -85,6 +86,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 </style>
 
 <div class="grid-container-supporters" style="width: 60%; margin: auto;">
+<div class="ark"><a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/ark.png"></a></div>
 <div class="cgarts"><a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/cg-arts.jpg"></a></div>
 <div class="hpctech"><a href="https://www.hpctech.co.jp/"><img src="assets/images/supporters/hpctech.jpg"></a></div>
 
