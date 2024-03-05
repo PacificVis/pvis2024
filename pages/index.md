@@ -51,7 +51,33 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 
 # Co-Sponsor
 
-<p style="width: 20%; margin: auto; padding: 20px 0; text-align: center"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio.png"></a><br/><span style="font-weight: 700;">Faculty of Science and Technology<br/>Keio University</span></p>
+<style>
+.grid-container-keio {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  grid-template-areas:
+    'keio_icon keio_text';
+  width: 60%;
+  margin: auto;
+  text-align: left;
+  gap: 10px;
+  padding: 20px 0;
+}
+
+.grid-container-keio > div {
+  padding: 10px 0;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.keio-icon { grid-area: keio_icon; }
+.keio-text { grid-area: keio_text; }
+</style>
+
+<div class="grid-container-keio">
+<div class="keio-icon"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio.png"></a></div>
+<div class="keio-text">Faculty of Science and Technology<br/>Keio University</div>
+</div>
 
 # Special Supporter
 
