@@ -21,4 +21,4 @@ date: 2024-02-16
 
 [Keynotes](/pvis2024/program/keynote/)
 
-[Social Events](/pvis2024/events/)
+[Social Events](/pvis2024/attend/events/)

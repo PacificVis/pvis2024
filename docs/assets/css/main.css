@@ -1,4 +1,9 @@
 @charset "UTF-8";
+/*
+$right-sidebar-width-narrow: 200px !default;
+$right-sidebar-width: 300px !default;
+$right-sidebar-width-wide: 400px !default;
+*/
 /* ==========================================================================
    Default skin
    ========================================================================== */
@@ -2034,12 +2039,12 @@ th {
 @media (min-width: 64em) {
   .breadcrumbs ol {
     float: right;
-    width: calc(100% - 200px);
+    width: calc(100% - 100px);
   }
 }
 @media (min-width: 80em) {
   .breadcrumbs ol {
-    width: calc(100% - 300px);
+    width: calc(100% - 150px);
   }
 }
 .breadcrumbs li {
@@ -3602,14 +3607,14 @@ body {
 @media (min-width: 64em) {
   .page {
     float: right;
-    width: calc(100% - 200px);
-    padding-right: 200px;
+    width: calc(100% - 100px);
+    padding-right: 100px;
   }
 }
 @media (min-width: 80em) {
   .page {
-    width: calc(100% - 300px);
-    padding-right: 300px;
+    width: calc(100% - 150px);
+    padding-right: 150px;
   }
 }
 .page .page__inner-wrap {
@@ -4053,12 +4058,12 @@ body {
 @media (min-width: 64em) {
   .page__related {
     float: right;
-    width: calc(100% - 200px);
+    width: calc(100% - 100px);
   }
 }
 @media (min-width: 80em) {
   .page__related {
-    width: calc(100% - 300px);
+    width: calc(100% - 150px);
   }
 }
 .page__related a {
@@ -4106,14 +4111,14 @@ body {
 @media (min-width: 64em) {
   .archive {
     float: right;
-    width: calc(100% - 200px);
-    padding-right: 200px;
+    width: calc(100% - 100px);
+    padding-right: 100px;
   }
 }
 @media (min-width: 80em) {
   .archive {
-    width: calc(100% - 300px);
-    padding-right: 300px;
+    width: calc(100% - 150px);
+    padding-right: 150px;
   }
 }
 
@@ -4225,12 +4230,12 @@ body {
 }
 @media (min-width: 64em) {
   .archive .grid__wrapper {
-    margin-right: -200px;
+    margin-right: -100px;
   }
 }
 @media (min-width: 80em) {
   .archive .grid__wrapper {
-    margin-right: -300px;
+    margin-right: -150px;
   }
 }
 
@@ -4526,7 +4531,7 @@ body {
 @media (min-width: 64em) {
   .sidebar {
     float: left;
-    width: calc(200px - 1em);
+    width: calc(100px - 1em);
     opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
@@ -4544,7 +4549,7 @@ body {
 }
 @media (min-width: 80em) {
   .sidebar {
-    width: calc(300px - 1em);
+    width: calc(150px - 1em);
   }
 }
 .sidebar > * {
@@ -4581,8 +4586,8 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    width: 200px;
-    margin-right: -200px;
+    width: 100px;
+    margin-right: -100px;
     padding-left: 1em;
     z-index: 10;
   }
@@ -4601,8 +4606,8 @@ body {
 }
 @media (min-width: 80em) {
   .sidebar__right {
-    width: 300px;
-    margin-right: -300px;
+    width: 150px;
+    margin-right: -150px;
   }
 }
 

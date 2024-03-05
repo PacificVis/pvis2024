@@ -44,21 +44,23 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
-        <td width="70%" align="center">
-           <a href="https://www.taf.or.jp/"><img src="assets/images/supporters/taf.jpg"></a>
-        </td>
+      <td width="33%" align="center">
+         <a href="https://www.taf.or.jp/"><img src="assets/images/supporters/taf.jpg"></a>
+      </td>
     </tr>
     <tr>
-        <td width="50%">
-           <a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/cg-arts.jpg"></a>
-        </td>
-        <td width="50%">
-           <a href="https://www.hpctech.co.jp/"><img src="assets/images/supporters/hpctech.jpg"></a>
-        </td>
+      <td width="33%">
+         <a href="https://www.cgarts.or.jp/"><img src="assets/images/supporters/cg-arts.jpg"></a>
+      </td>
+      <td width="33%">
+         <a href="https://www.hpctech.co.jp/"><img src="assets/images/supporters/hpctech.jpg"></a>
+      </td>
     </tr>
     <tr>
-        <td width="50%">
-           <a href="https://kashika.co.jp/"><img src="assets/images/supporters/kashika.png"></a>
-        </td>
+      <td width="33%"></td>
+      <td width="33%">
+         <a href="https://kashika.co.jp/"><img src="assets/images/supporters/kashika.png"></a>
+      </td>
+      <td width="33%"></td>
     </tr>
 </table>
