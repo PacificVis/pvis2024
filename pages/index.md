@@ -20,7 +20,7 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [
 - [Venue (accommodation)](/pvis2024/venue/) and [attend](/pvis2024/registration/) information is added. (2024-01-15)
 - [Call for Papers](/pvis2024/cfp/) is out. (2023-07-24)
 
-# Sponsors
+# Sponsor
 
 <!--
 Grid についての重要な条件: https://stackoverflow.com/a/66729292
@@ -51,7 +51,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 
 # Co-Sponsor
 
-<p style="width: 30%; margin: auto; padding: 20px 0"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio_text.png"></a></p>
+<p style="width: 20%; margin: auto; padding: 20px 0; text-align: center"><a href="https://www.keio.ac.jp/en/"><img src="assets/images/sponsors/keio.png"></a><br/>Keio University, Faculty of Science and Technology</p>
 
 # Special Supporter
 
@@ -66,7 +66,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
   grid-template-columns: auto;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-areas:
-    'ark ark cgarts cgarts'
+    'cgarts cgarts ark ark'
     'hpctech hpctech kashika kashika';
   text-align: center;
   gap: 10px;
