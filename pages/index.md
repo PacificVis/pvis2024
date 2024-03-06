@@ -50,26 +50,26 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 <div><a href="https://tc.computer.org/vgtc/"><img src="assets/images/sponsors/vgtclogo-128_128.jpg"></a></div>
 </div>
 
-# Co-Sponsor
+# Co-sponsor
 
 <style>
 .grid-container-keio {
+  width: 60%;
+  margin: auto;
+  padding: 20px 0;
+
   display: grid;
   grid-template-columns: 1fr 5fr;
   grid-template-areas:
     'keio_icon keio_text';
-  width: 60%;
-  margin: auto;
-  text-align: left;
   gap: 10px;
-  padding: 20px 0;
   align-items: center;
 }
 
 .grid-container-keio > div {
-  padding: 10px 0;
   font-size: 20px;
   font-weight: 700;
+  text-align: left;
 }
 
 .keio-icon { grid-area: keio_icon; }
@@ -83,7 +83,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 
 # Special Supporter
 
-<p style="width: 80%; margin: auto; padding: 40px 0"><a href="https://www.taf.or.jp/"><img src="assets/images/supporters/taf.jpg"></a></p>
+<p style="width: 60%; margin: auto; padding: 40px 0"><a href="https://www.taf.or.jp/"><img src="assets/images/supporters/taf.jpg"></a></p>
 
 
 # Supporters
