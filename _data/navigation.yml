@@ -62,13 +62,15 @@ attend:
         url: /venue/
 
 accepted:
-  - title: TVCG papers
-    url: /papers/jrnl/
-  - title: Conference papers
-    url: /papers/conf/
-  - title: Visualization Notes
-    url: /papers/notes/
-  - title: Visualization Meets AI Workshop
-    url: /papers/visxai/
-  - title: Posters
-    url: /papers/posters/  
+  - title: Accepted
+    children:
+      - title: TVCG papers
+        url: /papers/jrnl/
+      - title: Conference papers
+        url: /papers/conf/
+      - title: Visualization Notes
+        url: /papers/notes/
+      - title: Visualization Meets AI Workshop
+        url: /papers/visxai/
+      - title: Posters
+        url: /papers/posters/  
