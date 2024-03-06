@@ -9,9 +9,10 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [
 
 ## News
 
+- Keynote 2 on April 26 (Fri) by Prof. Bongshin Lee (Yonsei University) on "*Human-Data Interaction: Data Visualization and Beyond*" ([more ...](/pvis2024/program/keynote/#bongshin_lee)) is added. (2024-03-06)
 - [The list of accepted papers for Visualization Meets AI Workshop](/pvis2024/papers/visxai/) is added. (2024-02-28)
-- Keynote 1 on April 24 by Prof. Huamin Qu (Hong Kong University of Science and Technology) on "*Design Guidelines and Human-AI Collaboration for Data Storytelling*".  ([more ...](/pvis2024/program/keynote/#huamin_qu)) (2024-02-27)
-- We are excited to invite two keynote speakers Dr. Bongshin Lee (Microsoft Research) and Prof. Huamin Qu (Hong Kong University of Science and Technology). (2024-02-16)
+- Keynote 1 on April 24 (Wed) by Prof. Huamin Qu (Hong Kong University of Science and Technology) on "*Design Guidelines and Human-AI Collaboration for Data Storytelling*".  ([more ...](/pvis2024/program/keynote/#huamin_qu)) (2024-02-27)
+- We are excited to invite two keynote speakers Dr. Bongshin Lee (Yonsei University~~Microsoft Research~~) and Prof. Huamin Qu (Hong Kong University of Science and Technology). (2024-02-16)
 - PacificVis commitment to [Diversity, Inclusivity, and Accessibility](/pvis2024/attend/dia/). (2024-02-01)
 - It has been formally approved by IEEE Computer Society that PacificVis 2024 is renamed to conference. (2024-01-30)
 - [The PacifivVis 2024 banquet takes place on a cruise boat](/pvis2024/accepted/#banquet-april-25-thu) on April 25 (Thu)! (2024-01-30)

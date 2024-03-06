@@ -27,4 +27,4 @@ For the moment, [the list of accepted papers](/pvis2024/papers/) is provided.
 
 ## Keynotes
 
-We are excited to invite two keynote speakers Dr. Bongshin Lee (Microsoft Research) and Prof. Huamin Qu (Hong Kong University of Science and Technology).
+We are excited to invite two keynote speakers [Prof. Bongshin Lee (Yonsei University)](/pvis2024/program/keynote/#bongshin_lee) and [Prof. Huamin Qu (Hong Kong University of Science and Technology)](/pvis2024/program/keynote/#huamin_qu).
