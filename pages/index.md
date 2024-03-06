@@ -46,16 +46,16 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 </style>
 
 <div class="grid-container-sponsors">
-<div><a href="https://www.ieee.org/"><img src="assets/images/sponsors/IEEE-logo.jpg"></a></div>
-<div><a href="https://www.computer.org/"><img src="assets/images/sponsors/IEEE-CS_LogoTM-black.jpg"></a></div>
-<div><a href="https://tc.computer.org/vgtc/"><img src="assets/images/sponsors/vgtclogo-128_128.jpg"></a></div>
+<div><a href="https://www.ieee.org/"><img src="assets/images/sponsors/ieee-mb-blue.png"></a></div>
+<div><a href="https://www.computer.org/"><img src="assets/images/sponsors/IEEE-CS_LogoTM-orange.png"></a></div>
+<div><a href="https://tc.computer.org/vgtc/"><img width="100%" src="assets/images/sponsors/VGTC-color.svg"></a></div>
 </div>
 
 # Co-sponsor
 
 <style>
 .grid-container-keio {
-  width: 60%;
+  width: 50%;
   margin: auto;
   padding: 20px 0;
 
@@ -84,7 +84,7 @@ Grid についての重要な条件: https://stackoverflow.com/a/66729292
 
 # Special Supporter
 
-<p style="width: 60%; margin: auto; padding: 40px 0"><a href="https://www.taf.or.jp/"><img src="assets/images/supporters/taf.jpg"></a></p>
+<p style="width: 50%; margin: auto; padding: 40px 0"><a href="https://www.taf.or.jp/"><img src="assets/images/supporters/taf.jpg"></a></p>
 
 
 # Supporters
