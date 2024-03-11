@@ -8,7 +8,7 @@ date: 2023-02-10
 ---
 # Apr 24 (Wed), 13:30-15:33
 *AI and Visual Analytics*\
-*Session Chair: To be announce*
+*Session Chair: To be announced*
 
 **VIOLET: Visual Analytics for Explainable Quantum Neural Networks**\
 Shaolun Ruan, Zhiding Liang, Qiang Guan, Paul Griffin, Xiaolin Wen, Yanna Lin, Yong Wang
@@ -40,7 +40,7 @@ Suraj Padmanaban Kesavan, Harsh Bhatia, Keshav Dasu, Olga Pearce, Kwan-Liu Ma
 ---
 # Apr 24 (Wed), 16:00-17:51
 *Scientific and Geographic Visualization*\
-*Session Chair: To be announce*
+*Session Chair: To be announced*
 
 **Animating Hypothetical Trips to Communicate Space-Based Temporal Uncertainty on Digital Maps**\
 Morgane Koval, Yvonne Jansen, Fanny Chevalier
@@ -72,7 +72,7 @@ Franziska Huth, Fabian Beck, Johannes Knittel, Shahid Latif, Steffen Koch, Thoma
 ---
 # Apr 25 (Thu), 09:00-11:03
 *Graph and Network*\
-*Session Chair: To be announce*
+*Session Chair: To be announced*
 
 **Sticky Links: Encoding Quantitative Data of Graph Edges**\
 Min Lu, Xiangfang Zeng, Joel Lanir, Xiaoqin Sun, Guozheng Li, Daniel CohenOr, Hui Huang
@@ -107,13 +107,13 @@ Lukas Berner, Johannes Erwerle, Stefan Funke, Claudius Proissl, Florian Rieg, Sa
 ---
 # Apr 25 (Thu), 13:30-15:33
 *Representation and Framework*\
-*Session Chair: To be announce*
+*Session Chair: To be announced*
 
 **JsonCurer: Data Quality Management for JSON Based on an Aggregated Schema**\
 Kai Xiong, Xinyi Xu, Siwei Fu, Di Weng, Yongheng Wang, Yingcai Wu
                         
-**Visual Analytics for Efficient Image Exploration and User-Guided Image Captioning**\
-Yiran Li, Junpeng Wang, Prince O. Aboagye, Chin-Chia Michael Yeh, Yan Zheng, Liang Wang, Wei Zhang, Kwan-Liu Ma
+**A Survey of Designs for Combined 2D+3D Visual Representations**\
+Jiayi Hong, Rostyslav Hnatyshyn, Ebrar A. D. Santos, Ross Maciejewski, Tobias Isenberg
                         
 **Adaptive Sampling of 3D Spatial Correlations for Focus+Context  Visualization**\
 Christoph Neuhauser, Josef Stumpfegger, Rüdiger Westermann
@@ -142,7 +142,7 @@ Haoyu Li, Isaac J Michaud, Ayan Biswas, Han-Wei Shen
 ---
 # Apr 25 (Thu), 16:00-17:57
 *Application and Interpretation*\
-*Session Chair: To be announce*
+*Session Chair: To be announced*
 
 **ScrollTimes: Tracing the Provenance of Paintings as a Window into History**\
 Wei Zhang, Kam Kwai Wong, Yitian Chen, Ailing Jia, Luwei Wang, Jian-Wei Zhang, Lechao Cheng, Huamin Qu, Wei Chen
@@ -171,7 +171,7 @@ Xiao Han Li, Yi-Ting Hung, Jia-Yu Pan, Wen-Chieh Lin
 ---
 # Apr 26 (Fri), 09:00-10:00
 *Visualization Technique, Graph and Time-series Visualization*\
-*Session Chair: To be announce*
+*Session Chair: To be announced*
 
 **Towards Creating Comprehensible Visualizations**\
 Maryam Rezaie, Melanie Tory, Sheelagh Carpendale
@@ -194,7 +194,7 @@ Franziska Becker, Tanja Blascheck
 ---
 # Apr 26 (Fri), 10:00-11:00
 *AI+VIS and Visual Analytics Application*\
-*Session Chair: To be announce*
+*Session Chair: To be announced*
 
 **A Systematic Evaluation of Visual GenAI Model Outputs**\
 Tica Lin, Hanspeter Pfister, Jui-Hsien Wang
@@ -202,7 +202,7 @@ Tica Lin, Hanspeter Pfister, Jui-Hsien Wang
 **PromptLandscape: Guiding Prompts Exploration and Analysis with Visualization**\
 Junpeng Wang, Chin-Chia Michael Yeh, Yujie Fan, Xin Dai, Yan Zheng, Liang Wang, Wei Zhang
                         
-**Evaluating how interactive visualizations can assist in finding samples where and how computer vision models make mistakes**\
+**Evaluating how interactive visualizations can assist in finding samples where and how computer vision models make mistakes** (Remote presentation)\
 Hayeong Song, Gonzalo Ramos, Peter Bodik
                         
 **IoLens: Visual Analytics System for Exploring Storage I/O Tracking Process**\
