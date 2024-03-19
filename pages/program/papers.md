@@ -6,8 +6,7 @@ date: 2023-03-19
 ---
 ---
 
-# Apr 24 (Wed), 13:30-15:33
-*AI and Visual Analytics*\
+# Apr 24 (Wed), 13:30-15:33<br/>*AI and Visual Analytics*
 *Session Chair: To be announced*
 
 **VIOLET: Visual Analytics for Explainable Quantum Neural Networks**\
@@ -38,8 +37,7 @@ Emily Wall, Laura Matzen, Mennatallah El-Assady, Peta Masters, Helia Hosseinpour
 Suraj Padmanaban Kesavan, Harsh Bhatia, Keshav Dasu, Olga Pearce, and Kwan-Liu Ma<!-- article_id: 1707790339039 -->
 ---
 
-# Apr 24 (Wed), 16:00-17:51
-*Scientific and Geographic Visualization*\
+# Apr 24 (Wed), 16:00-17:51<br/>*Scientific and Geographic Visualization*
 *Session Chair: To be announced*
 
 **Animating Hypothetical Trips to Communicate Space-Based Temporal Uncertainty on Digital Maps**\
@@ -70,8 +68,7 @@ Yutong Yang, Yinuo Liu, Qishuo Bai, Tianyi Zhou, Ziduo Ye, and Xiaoju Dong<!-- a
 Franziska Huth, Fabian Beck, Johannes Knittel, Shahid Latif, Steffen Koch, and Thomas Ertl<!-- article_id: 1707744793907 -->
 ---
 
-# Apr 25 (Thu), 09:00-11:03
-*Graph and Network*\
+# Apr 25 (Thu), 09:00-11:03<br/>*Graph and Network*
 *Session Chair: To be announced*
 
 **Sticky Links: Encoding Quantitative Data of Graph Edges**\
@@ -105,8 +102,7 @@ Shijun Cai, Seok-Hee Hong, Amyra Meidiana, Peter Eades, and Daniel Keim<!-- arti
 Lukas Berner, Johannes Erwerle, Stefan Funke, Claudius Proissl, Florian Rieg, and Sabine Storandt<!-- article_id: 1707304889887 -->
 ---
 
-# Apr 25 (Thu), 13:30-15:33
-*Representation and Framework*\
+# Apr 25 (Thu), 13:30-15:33<br/>*Representation and Framework*
 *Session Chair: To be announced*
 
 **JsonCurer: Data Quality Management for JSON Based on an Aggregated Schema**\
@@ -140,8 +136,7 @@ Hongjia Wu, ShanChen Zou, Jiazhi Xia, HongXin Zhang, and Wei Chen<!-- article_id
 Haoyu Li, Isaac Michaud, Ayan Biswas, and Han-Wei Shen<!-- article_id: 1707237627330 -->
 ---
 
-# Apr 25 (Thu), 16:00-17:57
-*Application and Interpretation*\
+# Apr 25 (Thu), 16:00-17:57<br/>*Application and Interpretation*
 *Session Chair: To be announced*
 
 **ScrollTimes: Tracing the Provenance of Paintings as a Window into History**\
@@ -169,8 +164,7 @@ Zona Kostic, Catherine Dumas, Sarah Pratt, and Johanna Beyer<!-- article_id: TVC
 Xiao-Han Li, Yi-Ting Hung, Jia-Yu Pan, and Wen-Chieh Lin<!-- article_id: 1706986091364 -->
 ---
 
-# Apr 26 (Fri), 09:00-10:00
-*Visualization Technique, Graph and Time-series Visualization*\
+# Apr 26 (Fri), 09:00-10:00<br/>*Visualization Technique, Graph and Time-series Visualization*
 *Session Chair: To be announced*
 
 **Depth-Box VDB: Accelerate Sparse Volume Rendering with Depth Maps through Voxel Database**\
@@ -192,8 +186,7 @@ Ruike Jiang, Yiheng Liang, Hanning Shao, Le Liu, and Xiaoru Yuan<!-- article_id:
 Franziska Becker and Tanja Blascheck<!-- article_id: 1707809062121 -->
 ---
 
-# Apr 26 (Fri), 10:00-11:00
-*AI+VIS and Visual Analytics Application*\
+# Apr 26 (Fri), 10:00-11:00<br/>*AI+VIS and Visual Analytics Application*
 *Session Chair: To be announced*
 
 **GenLens: A Systematic Evaluation of Visual GenAI Model Outputs**\
