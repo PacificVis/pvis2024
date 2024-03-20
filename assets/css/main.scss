@@ -20,3 +20,27 @@ $right-sidebar-width-wide: 200px !default;
 img.circle {
   border-radius: 50%;
 }
+
+span.track {
+  display: inline_block;
+  margin-left: 5pt;
+  //border: 2pt solid;
+  border-radius: 6pt;
+  padding: 1pt 10pt 1pt 10pt;
+  font-weight: bold;
+}
+
+span.track_tvcg {
+  background-color: gold;
+  color: darkblue;
+}
+
+span.track_conf {
+  background-color: blue;
+  color: white;
+}
+
+span.track_note {
+  background-color: green;
+  color: white;
+}
