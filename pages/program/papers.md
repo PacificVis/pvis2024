@@ -9,8 +9,10 @@ date: 2023-03-19
 
 - Papers accepted in Journal track <span class="track track_tvcg">tvcg</span>
 - Papers accepted in Conference track <span class="track track_conf">conf</span>
-- Papers accepted in Visualization Notes track <span class="track track_conf">conf</span>
+- Papers accepted in Visualization Notes track <span class="track track_note">note</span>
+
 ---
+
 
 # Apr 24 (Wed), 13:30-15:35<br/>*AI and Visual Analytics*
 *Session Chair: To be announced*
@@ -41,7 +43,7 @@ Emily Wall, Laura Matzen, Mennatallah El-Assady, Peta Masters, Helia Hosseinpour
 
 **Data Movement Visualized: A Unified Framework for Tracking and Visualizing Data Movements in Heterogeneous Architectures** <span class="track track_conf">conf</span>\
 Suraj Padmanaban Kesavan, Harsh Bhatia, Keshav Dasu, Olga Pearce, and Kwan-Liu Ma<!-- article_id: 1707790339039 -->
----
+
 
 # Apr 24 (Wed), 16:00-17:55<br/>*Scientific and Geographic Visualization*
 *Session Chair: To be announced*
@@ -72,7 +74,7 @@ Yutong Yang, Yinuo Liu, Qishuo Bai, Tianyi Zhou, Ziduo Ye, and Xiaoju Dong<!-- a
 
 **ViSCitR: Visual Summarization and Comparison of Hotel Reviews** <span class="track track_conf">conf</span>\
 Franziska Huth, Fabian Beck, Johannes Knittel, Shahid Latif, Steffen Koch, and Thomas Ertl<!-- article_id: 1707744793907 -->
----
+
 
 # Apr 25 (Thu), 09:00-11:03<br/>*Graph and Network*
 *Session Chair: To be announced*
@@ -106,7 +108,7 @@ Shijun Cai, Seok-Hee Hong, Amyra Meidiana, Peter Eades, and Daniel Keim<!-- arti
 
 **Improved Lightweight Rendering of Road Networks based on Contraction Hierarchies** <span class="track track_conf">conf</span>\
 Lukas Berner, Johannes Erwerle, Stefan Funke, Claudius Proissl, Florian Rieg, and Sabine Storandt<!-- article_id: 1707304889887 -->
----
+
 
 # Apr 25 (Thu), 13:30-15:33<br/>*Representation and Framework*
 *Session Chair: To be announced*
@@ -140,7 +142,7 @@ Hongjia Wu, ShanChen Zou, Jiazhi Xia, HongXin Zhang, and Wei Chen<!-- article_id
 
 **Efficient Level-Crossing Probability Calculation for Gaussian Process Modeled Data** <span class="track track_conf">conf</span>\
 Haoyu Li, Isaac Michaud, Ayan Biswas, and Han-Wei Shen<!-- article_id: 1707237627330 -->
----
+
 
 # Apr 25 (Thu), 16:00-18:00<br/>*Application and Interpretation*
 *Session Chair: To be announced*
@@ -168,7 +170,7 @@ Zona Kostic, Catherine Dumas, Sarah Pratt, and Johanna Beyer<!-- article_id: TVC
 
 **VisCollage: Annotative Collages for Organizing Data Event Charts** <span class="track track_conf">conf</span>\
 Xiao-Han Li, Yi-Ting Hung, Jia-Yu Pan, and Wen-Chieh Lin<!-- article_id: 1706986091364 -->
----
+
 
 # Apr 26 (Fri), 09:00-10:00<br/>*Visualization Technique, Graph and Time-series Visualization*
 *Session Chair: To be announced*
@@ -190,7 +192,7 @@ Ruike Jiang, Yiheng Liang, Hanning Shao, Le Liu, and Xiaoru Yuan<!-- article_id:
 
 **TimeSeriesMaker: Interactive Time Series Composition in No Time** <span class="track track_note">note</span>\
 Franziska Becker and Tanja Blascheck<!-- article_id: 1707809062121 -->
----
+
 
 # Apr 26 (Fri), 10:00-11:00<br/>*AI+VIS and Visual Analytics Application*
 *Session Chair: To be announced*
