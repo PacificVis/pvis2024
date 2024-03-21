@@ -7,8 +7,8 @@ date: 2023-03-20
 
 **Coding**
 
-- <span class="track track_workshop_full">full</span> Full paper
-- <span class="track track_workshop_short">short</span> Short paper
+- <span class="track track_workshop_full">full</span> Full paper (20 min)
+- <span class="track track_workshop_short">short</span> Short paper (10 min)
 
 ---
 

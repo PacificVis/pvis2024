@@ -7,9 +7,9 @@ date: 2023-03-19
 
 **Coding**
 
-- <span class="track track_tvcg">tvcg</span> Papers accepted in Journal track
-- <span class="track track_conf">conf</span> Papers accepted in Conference track
-- <span class="track track_note">note</span> Papers accepted in Visualization Notes track
+- <span class="track track_tvcg">tvcg</span> Papers accepted in Journal track (15 min)
+- <span class="track track_conf">conf</span> Papers accepted in Conference track (12 min)
+- <span class="track track_note">note</span> Papers accepted in Visualization Notes track (8 min)
 
 ---
 
@@ -76,7 +76,7 @@ Yutong Yang, Yinuo Liu, Qishuo Bai, Tianyi Zhou, Ziduo Ye, and Xiaoju Dong<!-- a
 Franziska Huth, Fabian Beck, Johannes Knittel, Shahid Latif, Steffen Koch, and Thomas Ertl<!-- article_id: 1707744793907 -->
 
 
-# Apr 25 (Thu), 09:00-11:03<br/>*Graph and Network*
+# Apr 25 (Thu), 09:00-11:05<br/>*Graph and Network*
 *Session Chair: To be announced*
 
 <span class="track track_tvcg">tvcg</span> **Sticky Links: Encoding Quantitative Data of Graph Edges**\
@@ -110,7 +110,7 @@ Shijun Cai, Seok-Hee Hong, Amyra Meidiana, Peter Eades, and Daniel Keim<!-- arti
 Lukas Berner, Johannes Erwerle, Stefan Funke, Claudius Proissl, Florian Rieg, and Sabine Storandt<!-- article_id: 1707304889887 -->
 
 
-# Apr 25 (Thu), 13:30-15:33<br/>*Representation and Framework*
+# Apr 25 (Thu), 13:30-15:35<br/>*Representation and Framework*
 *Session Chair: To be announced*
 
 <span class="track track_tvcg">tvcg</span> **JsonCurer: Data Quality Management for JSON Based on an Aggregated Schema**\
