@@ -9,49 +9,49 @@ date: 2023-03-20
 
 [Visual Data Storytelling Contest](https://visstory.github.io/#shortlist)
 
-**Photography Assistance Method for 3D Reconstruction with On-time Presentation of Generated Results"**\
+**Photography Assistance Method for 3D Reconstruction with On-time Presentation of Generated Results**\
 Sayaka Morikoshi, Takeo Igarashi, and Keita Higuchi<!-- poster_id: poster_1015 -->
 
-**Enhancing Campus Navigation with Holographic Projection and Large Language Model"**\
+**Enhancing Campus Navigation with Holographic Projection and Large Language Model**\
 Sin-Yu Yen, Hsiang-Ting Chen, Yi-Jheng Huang, Yu-Hsuan Lin, and Suiang-Shyan Lee<!-- poster_id: poster_1016 -->
 
-**Revelio: A Lifelog Visualization System with Google My Activity"**\
+**Revelio: A Lifelog Visualization System with Google My Activity**\
 Yeeun Choi, Yooyeun Kim, Chan Gyu Lee, JeongJin Park, and Hyunwoo Park<!-- poster_id: poster_1021 -->
 
-**Visualization of semantic differences between Chinese and Japanese homonyms"**\
+**Visualization of semantic differences between Chinese and Japanese homonyms**\
 HE HAN and Takayuki Itoh<!-- poster_id: poster_1022 -->
 
-**Visualization and Feature Analysis of Dutch Baroque Paintings Including Vermeer"**\
+**Visualization and Feature Analysis of Dutch Baroque Paintings Including Vermeer**\
 Ryoko Oda and Takayuki Itoh<!-- poster_id: poster_1024 -->
 
-**Extracting Scholarly Posts from Social Networks for Visualizing Researchers’ Communities"**\
+**Extracting Scholarly Posts from Social Networks for Visualizing Researchers’ Communities**\
 Yuga Umezawa and Marie Katsurai<!-- poster_id: poster_1025 -->
 
-**An Open Dataset of Data Lineage Graphs: Description, Construction, and Visualization"**\
+**An Open Dataset of Data Lineage Graphs: Description, Construction, and Visualization**\
 Yunpeng Chen, Xin Zhao, Jiang Zhang, Jiang Long, Ying Zhao, and Fangfang Zhou<!-- poster_id: poster_1026 -->
 
-**Visualization System for Pitching Sequence Patterns based on Pitching Locations' Order"**\
+**Visualization System for Pitching Sequence Patterns based on Pitching Locations' Order**\
 Ryosuke Tsujino and  Masahiko Itoh<!-- poster_id: poster_1028 -->
 
-**Combinational Nonuniform Timeslicing of Dynamic Networks"**\
+**Combinational Nonuniform Timeslicing of Dynamic Networks**\
 Seokweon Jung, DongHwa Shin, Hyeon Jeon, and Jinwook Seo<!-- poster_id: poster_1029 -->
 
-**Towards Automated Generation of VA Systems for Adventure Stories: Case Study in**\
+**Towards Automated Generation of VA Systems for Adventure Stories: Case Study i**\
 Sami Mairue and Ken Wakita<!-- poster_id: poster_1030 -->
 
-**Enhancing Softness Sensation in Optical Fiber Tactile Sensors"**\
+**Enhancing Softness Sensation in Optical Fiber Tactile Sensors**\
 Eric Fujiwara and Yu Tzu Wu<!-- poster_id: poster_1031 -->
 
-**Visualization for Improving Parameter Interpretability in Pedestrian Flow Simulations with Multiple Indicators"**\
+**Visualization for Improving Parameter Interpretability in Pedestrian Flow Simulations with Multiple Indicators**\
 Chisa Mori, Mei Takeda, Masaki Onishi, and Takayuki Itoh<!-- poster_id: poster_1032 -->
 
-**Vivifying LIME: Visual Interactive Testbed for LIME Analysis"**\
+**Vivifying LIME: Visual Interactive Testbed for LIME Analysis**\
 Jeongmin Rhee, Changhee Lee, DongHwa Shin, and Bohyoung Kim<!-- poster_id: poster_1034 -->
 
-**A Visual Analytics System to Understand Behaviors of Multi Agents in Reinforcement Learning"**\
+**A Visual Analytics System to Understand Behaviors of Multi Agents in Reinforcement Learning**\
 Changhee Lee, Jeongmin Rhee, and DongHwa Shin<!-- poster_id: poster_1035 -->
 
-**Form of Music: Visualizing Musical Phrasing with Calligraphy"**\
+**Form of Music: Visualizing Musical Phrasing with Calligraphy**\
 Yu Tzu Wu and Eric Fujiwara<!-- poster_id: poster_1037 -->
 
 
@@ -60,45 +60,45 @@ Yu Tzu Wu and Eric Fujiwara<!-- poster_id: poster_1037 -->
 
 [Visual Data Storytelling Contest](https://visstory.github.io/#shortlist)
 
-**Tag Cloud Visualization with Scatter Plot using Bag of Words for Imbalance Analysis on Public Relations"**\
+**Tag Cloud Visualization with Scatter Plot using Bag of Words for Imbalance Analysis on Public Relations**\
 ChanYoung Yoon, Sangbong Yoo, Hyelim Lee, Jeong-Nam Kim, and Yun Jang<!-- poster_id: poster_1038 -->
 
-**Dimensionality Reduction of Connected Pair Attributions of Inter-firm Transaction Network"**\
+**Dimensionality Reduction of Connected Pair Attributions of Inter-firm Transaction Network**\
 Kohei Arimoto and  Masahiko Itoh<!-- poster_id: poster_1039 -->
 
-**Multiple Contributions to the Practices and Challenges of Comprehending Visualizations"**\
+**Multiple Contributions to the Practices and Challenges of Comprehending Visualizations**\
 Maryam Rezaie, Sheelagh Carpendale, and Melanie Tory<!-- poster_id: poster_1040 -->
 
-**Interpreting Text Generation Rationale in Large Language Models - Visualization of Attention Mechanisms for Public Relationship Analysis"**\
+**Interpreting Text Generation Rationale in Large Language Models - Visualization of Attention Mechanisms for Public Relationship Analysis**\
 Seongbum Seo, Sangbong Yoo, Hyelim Lee, Yun Jang, Ji Hwan Park, and Jeong-Nam Kim<!-- poster_id: poster_1043 -->
 
-**A General Framework for Annotated Maps Generation"**\
+**A General Framework for Annotated Maps Generation**\
 Hanning Shao and Xiaoru Yuan<!-- poster_id: poster_1044 -->
 
-**Domain uniform decomposition for compressing neural representations"**\
+**Domain uniform decomposition for compressing neural representations**\
 Rong Guo, Chenyue Jiao, Xin Gao, and Chongke Bi<!-- poster_id: poster_1045 -->
 
-**String Nodes Visualization with a Simple Trick: The Hidden Virtual Nodes"**\
+**String Nodes Visualization with a Simple Trick: The Hidden Virtual Nodes**\
 Jinwoo Choi<!-- poster_id: poster_1046 -->
 
-**FinNetViz: A Comprehensive Visualization System for P2P and DeFi Platforms"**\
+**FinNetViz: A Comprehensive Visualization System for P2P and DeFi Platforms**\
 shuxi LIANG, Tianze Zhang, haolin ren, and Daning Hu<!-- poster_id: poster_1048 -->
 
-**Visualizing Set Sizes with Dependent and Independent Uncertainties"**\
+**Visualizing Set Sizes with Dependent and Independent Uncertainties**\
 Nathan van Beusekom, Steven Chaplick, Amy Griffin, Marc van Kreveld, Martin Krzywinski, Wouter Meulemans, and Hsiang-Yun Wu<!-- poster_id: poster_1050 -->
 
-**Scatterplot Drawings also Show Underestimation of Correlation"**\
+**Scatterplot Drawings also Show Underestimation of Correlation**\
 Lucy Cui, Ching-Yi Wang, Yiwei Wang, Medha Kini, and Zili Liu<!-- poster_id: poster_1052 -->
 
-**Dynamic Network Visualization with Radial Charts: A Novel Integration Approach"**\
+**Dynamic Network Visualization with Radial Charts: A Novel Integration Approach**\
 Tianze Zhang, shuxi LIANG, haolin ren, and Daning Hu<!-- poster_id: poster_1053 -->
 
-**GPT-Enhanced ReciPic: A Tool for Transforming Recipe Procedure Text into Visual Infographics"**\
+**GPT-Enhanced ReciPic: A Tool for Transforming Recipe Procedure Text into Visual Infographics**\
 Lechang Zhang and  Takayuki Itoh<!-- poster_id: poster_1054 -->
 
-**Visual Approach for Human Knowledge Incorporated Traffic Signal Classification to Multi-Agent Modeling in Reinforcement Learning"**\
+**Visual Approach for Human Knowledge Incorporated Traffic Signal Classification to Multi-Agent Modeling in Reinforcement Learning**\
 SeokHwan Choi, Sangbong Yoo, Chanyoung Jung, and Yun Jang<!-- poster_id: poster_1055 -->
 
-**Fuzzy Confluent Layered Drawings: Extension of Confluent Layered Drawings using Quasi-biclique"**\
+**Fuzzy Confluent Layered Drawings: Extension of Confluent Layered Drawings using Quasi-biclique**\
 Masakazu Kudo and Yosuke Onoue<!-- poster_id: poster_1056 -->
 
