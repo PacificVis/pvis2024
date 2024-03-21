@@ -61,6 +61,11 @@ defaults:
       sidebar:
         nav: "accepted"
   - scope:
+      path: "pages/program/*.md"
+    values:
+      sidebar:
+        nav: "program"
+  - scope:
       path: "pages"
       type: "pages"
     values:

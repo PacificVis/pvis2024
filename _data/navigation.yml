@@ -5,7 +5,7 @@ main:
   - title: "attend"
     url: /attend/
   - title: "program"
-    url: /papers/
+    url: /program/
   - title: "venue"
     url: /venue/
   - title: "contribute"
@@ -73,4 +73,18 @@ accepted:
       - title: Visualization Meets AI Workshop
         url: /papers/visxai/
       - title: Posters
-        url: /papers/posters/  
+        url: /papers/posters/
+
+program:
+  - title: Program
+    children:
+      - title: Keynotes
+        url: /program/keynote/
+      - title: Technical Sessions
+        url: /program/papers/
+      - title: Posters & Visual Storytelling
+        url: /program/posters/
+      - title: Visualization Meets AI Workshop
+        url: /program/workshop/
+      - title: Accepted contributions
+        url: /papers/
