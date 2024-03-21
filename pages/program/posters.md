@@ -79,7 +79,7 @@ Hanning Shao, Xiaoru Yuan,<!-- poster_id: poster_1044 -->
 Rong Guo, Chenyue Jiao, Xin Gao, Chongke Bi,<!-- poster_id: poster_1045 -->
 
 <span class="track track_poster">poster</span> **String Nodes Visualization with a Simple Trick: The Hidden Virtual Nodes**\
-Jinwoo Choi,<!-- poster_id: poster_1046 -->
+Jinwoo Choi, Hyunwoo Park,<!-- poster_id: poster_1046 -->
 
 <span class="track track_poster">poster</span> **FinNetViz: A Comprehensive Visualization System for P2P and DeFi Platforms**\
 shuxi LIANG, Tianze Zhang, haolin ren, Daning Hu,<!-- poster_id: poster_1048 -->
