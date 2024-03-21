@@ -5072,17 +5072,32 @@ span.track {
 }
 
 span.track_tvcg {
-  background-color: gold;
+  background-color: rgb(241, 196, 0);
   color: darkblue;
 }
 
 span.track_conf {
-  background-color: blue;
+  background-color: rgb(198, 53, 39);
   color: white;
 }
 
 span.track_note {
-  background-color: green;
+  background-color: rgb(0, 30, 98);
+  color: white;
+}
+
+span.track_workshop_full {
+  background-color: rgb(198, 53, 39);
+  color: white;
+}
+
+span.track_poster {
+  background-color: rgb(0, 30, 98);
+  color: white;
+}
+
+span.track_workshop_short {
+  background-color: rgb(0, 30, 98);
   color: white;
 }
 
