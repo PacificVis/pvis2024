@@ -197,14 +197,14 @@ Franziska Becker and Tanja Blascheck<!-- article_id: 1707809062121 -->
 # Apr 26 (Fri), 10:00-11:00<br/>*AI+VIS and Visual Analytics Application*
 *Session Chair: To be announced*
 
+<span class="track track_note">note</span> **Evaluating how interactive visualizations can assist in finding samples where and how computer vision models make mistakes** <span class="tag tag_remote_presentation">remote</span>\
+Hayeong Song, Gonzalo Ramos, and Peter Bodik<!-- article_id: 1707679276968 -->
+
 <span class="track track_note">note</span> **GenLens: A Systematic Evaluation of Visual GenAI Model Outputs**\
 Tica Lin, Hanspeter Pfister, and Jui-Hsien Wang<!-- article_id: 1707177021314 -->
 
 <span class="track track_note">note</span> **PromptLandscape: Guiding Prompts Exploration and Analysis with Visualization**\
 Junpeng Wang, Chin-Chia Michael Yeh, Yujie Fan, Xin Dai, Yan Zheng, Liang Wang, and Wei Zhang<!-- article_id: 1707591558410 -->
-
-<span class="track track_note">note</span> **Evaluating how interactive visualizations can assist in finding samples where and how computer vision models make mistakes** <span class="tag tag_remote_presentation">Remote presentation</span>\
-Hayeong Song, Gonzalo Ramos, and Peter Bodik<!-- article_id: 1707679276968 -->
 
 <span class="track track_note">note</span> **IoLens: Visual Analytics System for Exploring Storage I/O Tracking Process**\
 Changmin Jeon, Jiwon Ha, Hyolim Hong, Hyeon Jeon, Hyeonsang Eom, Heonyoung Yeom, and Jinwook Seo<!-- article_id: 1706965700195 -->
