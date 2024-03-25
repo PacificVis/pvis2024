@@ -176,7 +176,7 @@ Xiao-Han Li, Yi-Ting Hung, Jia-Yu Pan, and Wen-Chieh Lin<!-- article_id: 1706986
 *Session Chair: To be announced*
 
 <span class="track track_note">note</span> **Depth-Box VDB: Accelerate Sparse Volume Rendering with Depth Maps through Voxel Database**\
-Keyue Xu, Jiapu Zhao, Yubo Tao, and Hai Lin<!-- article_id: 1707746717161 -->
+Keyue Xu, Jiapu Zhao, and Yubo Tao<!-- article_id: 1707746717161 -->
 
 <span class="track track_note">note</span> **$\beta$-skeleton Shape-based Metrics for Large and Complex Graph Drawings**\
 Seok-Hee Hong and Patrick Eades<!-- article_id: 1707396400296 -->
