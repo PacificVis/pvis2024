@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://pvis2024.github.io/pvis2024/accepted/</loc>
-</url>
-<url>
 <loc>https://pvis2024.github.io/pvis2024/test/cfp/</loc>
-</url>
-<url>
-<loc>https://pvis2024.github.io/pvis2024/papers/conf/</loc>
 </url>
 <url>
 <loc>https://pvis2024.github.io/pvis2024/cfp/conf/</loc>
@@ -22,6 +16,9 @@
 <loc>https://pvis2024.github.io/pvis2024/cfp/guidelines/</loc>
 </url>
 <url>
+<loc>https://pvis2024.github.io/pvis2024/</loc>
+</url>
+<url>
 <loc>https://pvis2024.github.io/pvis2024/program/</loc>
 </url>
 <url>
@@ -31,28 +28,16 @@
 <loc>https://pvis2024.github.io/pvis2024/cfp/</loc>
 </url>
 <url>
-<loc>https://pvis2024.github.io/pvis2024/papers/</loc>
-</url>
-<url>
-<loc>https://pvis2024.github.io/pvis2024/</loc>
-</url>
-<url>
 <loc>https://pvis2024.github.io/pvis2024/cfp/japanvis/</loc>
 </url>
 <url>
 <loc>https://pvis2024.github.io/pvis2024/cfp/journal/</loc>
 </url>
 <url>
-<loc>https://pvis2024.github.io/pvis2024/papers/jrnl/</loc>
-</url>
-<url>
 <loc>https://pvis2024.github.io/pvis2024/program/keynote/</loc>
 </url>
 <url>
 <loc>https://pvis2024.github.io/pvis2024/cfp/note/</loc>
-</url>
-<url>
-<loc>https://pvis2024.github.io/pvis2024/papers/notes/</loc>
 </url>
 <url>
 <loc>https://pvis2024.github.io/pvis2024/committees/</loc>
@@ -67,9 +52,6 @@
 <loc>https://pvis2024.github.io/pvis2024/program/posters/</loc>
 </url>
 <url>
-<loc>https://pvis2024.github.io/pvis2024/papers/posters/</loc>
-</url>
-<url>
 <loc>https://pvis2024.github.io/pvis2024/attend/registration/</loc>
 </url>
 <url>
@@ -80,9 +62,6 @@
 </url>
 <url>
 <loc>https://pvis2024.github.io/pvis2024/venue/</loc>
-</url>
-<url>
-<loc>https://pvis2024.github.io/pvis2024/papers/visxai/</loc>
 </url>
 <url>
 <loc>https://pvis2024.github.io/pvis2024/cfp/workshop/</loc>

@@ -99,6 +99,7 @@ include:
 exclude:
   - bin/
   - etc/
+  - pages/obsolete/
   - Readme.md
   - theme
   - work
