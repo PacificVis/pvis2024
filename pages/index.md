@@ -9,6 +9,7 @@ IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [
 
 ## News
 
+- [Details of the invited talks for the workshop](/pvis2024/program/workshop/) is added. (2024-03-25)
 - [The advance program for PacificVis 2024](/pvis2024/program/) is now available. (2024-03-21)
 - Keynote 2 on April 26 (Fri) by Prof. Bongshin Lee (Yonsei University) on "*Human-Data Interaction: Data Visualization and Beyond*" ([more ...](/pvis2024/program/keynote/#bongshin_lee)) is added. (2024-03-06)
 - [The list of accepted papers for Visualization Meets AI Workshop](/pvis2024/papers/visxai/) is added. (2024-02-28)
