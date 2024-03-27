@@ -17,8 +17,8 @@ Author registration closing dates
 | TVCG Journal papers | January 31, 2024 |
 | Conference papers / VisNotes | February 29, 2024 |
 | Posters | March 31, 2024 |
-| Vis Meets AI Workshop papers | TBA |
-| Visual Data Storytelling Contest | TBA |
+| Vis Meets AI Workshop papers | March 31, 2024 |
+| Visual Data Storytelling Contest | March 31, 2024 |
 
 Early registration closing date	  April 2, 2024.
 
