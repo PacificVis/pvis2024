@@ -5,7 +5,21 @@ permalink: '/'
 date: 2024-03-05
 ---
 
-IEEE 17th Pacific Visualization Conference (PacificVis 2024) will be hosted by [the Faculty of Science and Technology](https://www.st.keio.ac.jp/en/),  [Keio University](https://www.keio.ac.jp/en/), from April 23 through April 26, 2024 at [Mita campus](https://www.keio.ac.jp/en/maps/mita.html), Tokyo, Japan. The technical papers program of PacificVis 2024 will include a new journal track in addition to a conference track and a VisNotes track. Papers accepted by the journal track will be included in a special issue of IEEE TVCG. [Call for papers for each track](/pvis2024/cfp/) is available. For general inquiries, please email Professor Issei Fujishiro, the general chair, at [ifujishiro@keio.jp](mailto:ifujishiro@keio.jp).
+## Welcome to IEEE PacificVis 2024!
+
+IEEE Pacific Visualization Symposium (PacificVis) was born in Kyoto in 2008 as an international event sponsored by IEEE Computer Society with the aim of promoting visualization research and technologies, especially in the Asian-Pacific region. Since then, we had a series of annual events in Beijing (2009), Taipei (2010), Hong Kong (2011), Songdo (2012), Sydney (2013), Yokohama (2014), Hangzhou (2015), Taipei (2016), Seoul (2017), Kobe (2018), Bangkok (2019), Tianjin (2020 and 2021, online), Tsukuba (2022, online), and Seoul (2023). The 17th event is scheduled to take place in [Mita Campus](https://www.keio.ac.jp/en/maps/mita.html), [Keio University](https://www.keio.ac.jp/en/), Tokyo over April 23-26, 2024 with the co-sponsorship by [the Faculty of Science and Technology](https://www.st.keio.ac.jp/en/), [Keio University](https://www.keio.ac.jp/en/).
+
+We are pleased to announce three significant changes we made this year. First of all, in recognition of the growth of PacificVis to date by the IEEE Computer Society and Visualization and Graphics Technical Committee, PacificVis was upgraded from a symposium to a conference. Second, the full-paper track of PacificVis was expanded into two independent subtracks: the IEEE Transactions on Visualization and Computer Graphics (TVCG) track and the conference track, unlike in the past when we published only a few best papers selected from the conference track in a special section of the TVCG. Third and last, all the accepted papers from [the Vis-Meets-AI Workshop](/pvis2024/program/workshop/), which was held in conjunction with PacificVis so far since 2020, are now also included in the conference proceedings together with all accepted short papers in the track of Visualization Notes. 
+
+[The conference program](https://pacificvis.github.io/pvis2024/program/papers/) also includes two keynote speeches by [Prof. Huamin Qu](/pvis2024/program/keynote/#huamin_qu) and [Prof. Bongshin Lee](/pvis2024/program/keynote/#bongshin_lee), as well as all the accepted [Posters and Visual Data Storytelling Contest works](/pvis2024/program/posters/) as in the previous year.
+We hope that all participants will enjoy PacificVis 2024!
+
+General Chair of PacificVis 2024
+: Issei Fujishiro, Keio University
+
+Chair of PacificVis Steering Committee
+: Kwan-Liu Ma, UC Davis
+
 
 ## News
 
