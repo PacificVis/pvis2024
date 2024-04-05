@@ -51,14 +51,14 @@ Changhee Lee, Jeongmin Rhee, and DongHwa Shin<!-- poster_id: poster_1035 -->
 <span class="track track_poster">poster</span> **Form of Music: Visualizing Musical Phrasing with Calligraphy**\
 Yu Tzu Wu and Eric Fujiwara<!-- poster_id: poster_1037 -->
 
-<span class="track track_poster">poster</span> **Enhancing Campus Navigation with Holographic Projection and Large Language Model**\
-Sin-Yu Yen, Hsiang-Ting Chen, Yi-Jheng Huang, Yu-Hsuan Lin, and Suiang-Shyan Lee<!-- poster_id: poster_1016 -->
-
 
 
 # April 25th (Thursday) 11:30-12:30 Posters & Storytelling 2
 
 [Visual Data Storytelling Contest](https://visstory.github.io/#shortlist)
+
+<span class="track track_poster">poster</span> **Enhancing Campus Navigation with Holographic Projection and Large Language Model**\
+Sin-Yu Yen, Hsiang-Ting Chen, Yi-Jheng Huang, Yu-Hsuan Lin, and Suiang-Shyan Lee<!-- poster_id: poster_1016 -->
 
 <span class="track track_poster">poster</span> **Tag Cloud Visualization with Scatter Plot using Bag of Words for Imbalance Analysis on Public Relations**\
 ChanYoung Yoon, Sangbong Yoo, Hyelim Lee, Jeong-Nam Kim, and Yun Jang<!-- poster_id: poster_1038 -->
