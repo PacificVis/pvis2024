@@ -12,9 +12,6 @@ date: 2023-03-20
 <span class="track track_poster">poster</span> **Photography Assistance Method for 3D Reconstruction with On-time Presentation of Generated Results**\
 Sayaka Morikoshi, Takeo Igarashi, and Keita Higuchi<!-- poster_id: poster_1015 -->
 
-<span class="track track_poster">poster</span> **Enhancing Campus Navigation with Holographic Projection and Large Language Model**\
-Sin-Yu Yen, Hsiang-Ting Chen, Yi-Jheng Huang, Yu-Hsuan Lin, and Suiang-Shyan Lee<!-- poster_id: poster_1016 -->
-
 <span class="track track_poster">poster</span> **Revelio: A Lifelog Visualization System with Google My Activity**\
 Yeeun Choi, Yooyeun Kim, Chan Gyu Lee, JeongJin Park, and Hyunwoo Park<!-- poster_id: poster_1021 -->
 
@@ -53,6 +50,9 @@ Changhee Lee, Jeongmin Rhee, and DongHwa Shin<!-- poster_id: poster_1035 -->
 
 <span class="track track_poster">poster</span> **Form of Music: Visualizing Musical Phrasing with Calligraphy**\
 Yu Tzu Wu and Eric Fujiwara<!-- poster_id: poster_1037 -->
+
+<span class="track track_poster">poster</span> **Enhancing Campus Navigation with Holographic Projection and Large Language Model**\
+Sin-Yu Yen, Hsiang-Ting Chen, Yi-Jheng Huang, Yu-Hsuan Lin, and Suiang-Shyan Lee<!-- poster_id: poster_1016 -->
 
 
 
