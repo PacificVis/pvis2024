@@ -21,6 +21,10 @@ Date & Time
 Location
 : [Alice Aqua Garden Tamachi](https://gurunavi.com/en/g105306/rst/?__ngt__=TT1537dbf9a007ac1e4ae124uGAizro0Os4uvl15Dp9FRy)
 
+<center>
+<img src="https://tblg.k-img.com/restaurant/images/Rvw/77281/640x640_rect_77281169.jpg" width="50%" />
+</center>
+
 
 
 ## Visit to KeMCo: April 24 (Wed)
