@@ -88,5 +88,7 @@ program:
         url: /program/posters/
       - title: Visualization Meets AI Workshop
         url: /program/workshop/
+      - title: 7th JKC Workshop
+        url: /program/jkc7/
       - title: Accepted contributions
         url: /papers/
