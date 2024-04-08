@@ -15,7 +15,7 @@ date: 2023-03-19
 
 
 # Apr 24 (Wed), 13:30-15:35<br/>*AI and Visual Analytics*
-*Session Chair: To be announced*
+*Session Chair: Di Weng*
 
 <span class="track track_tvcg">tvcg</span> **VIOLET: Visual Analytics for Explainable Quantum Neural Networks**\
 Shaolun Ruan, Zhiding Liang, Qiang Guan, Paul Griffin, Xiaolin Wen, Yanna Lin, and Yong Wang<!-- article_id: 1704622067002 -->
@@ -46,7 +46,7 @@ Suraj Padmanaban Kesavan, Harsh Bhatia, Keshav Dasu, Olga Pearce, and Kwan-Liu M
 
 
 # Apr 24 (Wed), 16:00-17:55<br/>*Scientific and Geographic Visualization*
-*Session Chair: To be announced*
+*Session Chair: Guido Reina*
 
 <span class="track track_tvcg">tvcg</span> **Animating Hypothetical Trips to Communicate Space-Based Temporal Uncertainty on Digital Maps**\
 Morgane Koval, Yvonne Jansen, and Fanny Chevalier<!-- article_id: 1704726142947 -->
@@ -77,7 +77,7 @@ Franziska Huth, Fabian Beck, Johannes Knittel, Shahid Latif, Steffen Koch, and T
 
 
 # Apr 25 (Thu), 09:00-11:05<br/>*Graph and Network*
-*Session Chair: To be announced*
+*Session Chair: Daniel Weiskopf*
 
 <span class="track track_tvcg">tvcg</span> **Sticky Links: Encoding Quantitative Data of Graph Edges**\
 Min Lu, Xiangfang Zeng, Joel Lanir, Xiaoqin Sun, Guozheng Li, Daniel Cohen-Or, and Hui Huang<!-- article_id: 1704883411432 -->
@@ -111,7 +111,7 @@ Lukas Berner, Johannes Erwerle, Stefan Funke, Claudius Proissl, Florian Rieg, an
 
 
 # Apr 25 (Thu), 13:30-15:35<br/>*Representation and Framework*
-*Session Chair: To be announced*
+*Session Chair: Siming Chen*
 
 <span class="track track_tvcg">tvcg</span> **JsonCurer: Data Quality Management for JSON Based on an Aggregated Schema**\
 Kai Xiong, Xinyi Xu, Siwei Fu, Di Weng, Yongheng Wang, and Yingcai Wu<!-- article_id: 1704872212613 -->
@@ -145,7 +145,7 @@ Haoyu Li, Isaac Michaud, Ayan Biswas, and Han-Wei Shen<!-- article_id: 170723762
 
 
 # Apr 25 (Thu), 16:00-18:00<br/>*Application and Interpretation*
-*Session Chair: To be announced*
+*Session Chair: Filip Sadlo*
 
 <span class="track track_tvcg">tvcg</span> **ScrollTimes: Tracing the Provenance of Paintings as a Window into History**\
 Wei Zhang, Kam-Kwai Wong, Yitian Chen, Ailing Jia, Luwei Wang, Jian-Wei Zhang, Lechao Cheng, Huamin Qu, and Wei Chen<!-- article_id: 1703323473958 -->
