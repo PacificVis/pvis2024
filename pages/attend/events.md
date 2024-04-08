@@ -13,15 +13,14 @@ date: 2023-02-04
 
 - [Banquet: April 25 (Thu)](/pvis2024/attend/events/#banquet-april-25-thu)
 
-## Reception: April 23 (Tue)
+## Welcome Reception: April 23 (Tue)
 
 Date & Time
 : April 23 (Tue) 18:00-21:00
 
 Location
-: (TBA)
+: [Alice Aqua Garden Tamachi](https://gurunavi.com/en/g105306/rst/?__ngt__=TT1537dbf9a007ac1e4ae124uGAizro0Os4uvl15Dp9FRy)
 
-More detail to be announced soon.
 
 
 ## Visit to KeMCo: April 24 (Wed)
