@@ -116,3 +116,9 @@ Moderator: Yun Jang
 - Sangbong Yoo, Sejong University
 - Juanjuan Long, Jiangnan University
 - Chongke Bi, Tianjin University
+
+**Panel Topics**
+
+- Human-Centered Design in Data Visualization: Putting Users First 
+- From Data to Insights: Best Practices in Communicating Information Visually 
+- AI-driven Visualization and Storytelling of Massive Multimodal Data
