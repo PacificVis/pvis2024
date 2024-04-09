@@ -110,7 +110,7 @@ Shijun Cai, Seok-Hee Hong, Amyra Meidiana, Peter Eades, and Daniel Keim<!-- arti
 Lukas Berner, Johannes Erwerle, Stefan Funke, Claudius Proissl, Florian Rieg, and Sabine Storandt<!-- article_id: 1707304889887 -->
 
 
-# Apr 25 (Thu), 13:30-15:35<br/>*Representation and Framework*
+# Apr 25 (Thu), 13:30-15:45<br/>*Representation and Framework*
 *Session Chair: Siming Chen*
 
 <span class="track track_tvcg">tvcg</span> **JsonCurer: Data Quality Management for JSON Based on an Aggregated Schema**\
