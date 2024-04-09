@@ -22,7 +22,7 @@ Bio
 # Human-Data Interaction: Data Visualization and Beyond<br/><small>Prof. Bongshin Lee<br/>Yonsei University</small> {#bongshin_lee}
 
 Date
-: 11:30-13:00, April 26
+: 09:00-10:00, April 26
 
 Abstract
 : Data plays a pivotal role in our daily lives, offering vast possibilities to shape our work, lifestyles, and interactions with the world. Over the last few decades, data visualization has proven to be a powerful tool for gaining and communicating insights, as well as facilitating informed decision-making in diverse fields and contexts. However, visualization research has traditionally centered on narrow aspects of how people interact with data. Much of the research has focused on desktop environments designed for data experts and individuals without disabilities, overlooking the diverse human capabilities and needs. In this talk, I advocate for expanding the scope of our research endeavors to cover a wider range of activities and contexts in which individuals interact with data, aiming to serve a more diverse audience. I will illustrate how my research has evolved from concentrated efforts in data visualization to a broader exploration in human-data interaction. I will present recent projects on novel and inclusive data interaction experiences that leverage advancements in input technologies and AI. I will also suggest exciting research avenues we can pursue to enrich data interaction experiences, going beyond data visualization, for a wider audience, which will also help to make data and data visualization accessible and beneficial to everyone.

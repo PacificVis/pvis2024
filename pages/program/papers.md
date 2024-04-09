@@ -110,7 +110,7 @@ Shijun Cai, Seok-Hee Hong, Amyra Meidiana, Peter Eades, and Daniel Keim<!-- arti
 Lukas Berner, Johannes Erwerle, Stefan Funke, Claudius Proissl, Florian Rieg, and Sabine Storandt<!-- article_id: 1707304889887 -->
 
 
-# Apr 25 (Thu), 13:30-15:45<br/>*Representation and Framework*
+# Apr 25 (Thu), 13:20-15:35<br/>*Representation and Framework*
 *Session Chair: Siming Chen*
 
 <span class="track track_tvcg">tvcg</span> **JsonCurer: Data Quality Management for JSON Based on an Aggregated Schema**\
@@ -144,7 +144,7 @@ Hongjia Wu, ShanChen Zou, Jiazhi Xia, HongXin Zhang, and Wei Chen<!-- article_id
 Haoyu Li, Isaac Michaud, Ayan Biswas, and Han-Wei Shen<!-- article_id: 1707237627330 -->
 
 
-# Apr 25 (Thu), 16:00-18:00<br/>*Application and Interpretation*
+# Apr 25 (Thu), 15:50-17:50<br/>*Application and Interpretation*
 *Session Chair: Filip Sadlo*
 
 <span class="track track_tvcg">tvcg</span> **ScrollTimes: Tracing the Provenance of Paintings as a Window into History**\
@@ -172,7 +172,7 @@ Zona Kostic, Catherine Dumas, Sarah Pratt, and Johanna Beyer<!-- article_id: TVC
 Xiao-Han Li, Yi-Ting Hung, Jia-Yu Pan, and Wen-Chieh Lin<!-- article_id: 1706986091364 -->
 
 
-# Apr 26 (Fri), 09:00-10:00<br/>*Visualization Technique, Graph and Time-series Visualization*
+# Apr 26 (Fri), 10:15-11:15<br/>*Visualization Technique, Graph and Time-series Visualization*
 *Session Chair: To be announced*
 
 <span class="track track_note">note</span> **Depth-Box VDB: Accelerate Sparse Volume Rendering with Depth Maps through Voxel Database**\
@@ -194,7 +194,7 @@ Ruike Jiang, Yiheng Liang, Hanning Shao, Le Liu, and Xiaoru Yuan<!-- article_id:
 Franziska Becker and Tanja Blascheck<!-- article_id: 1707809062121 -->
 
 
-# Apr 26 (Fri), 10:00-11:00<br/>*AI+VIS and Visual Analytics Application*
+# Apr 26 (Fri), 11:15-12:15<br/>*AI+VIS and Visual Analytics Application*
 *Session Chair: To be announced*
 
 <span class="track track_note">note</span> **Evaluating how interactive visualizations can assist in finding samples where and how computer vision models make mistakes** <span class="tag tag_remote_presentation">remote</span>\
