@@ -6,6 +6,7 @@ date: 2023-02-04
 ---
 
 # Design Guidelines and Human-AI Collaboration for Data Storytelling<br/><small>Prof. Huamin Qu<br/>Hong Kong University of Science and Technology</small> {#huamin_qu}
+*Chair: Issei Fujishiro*
 
 Date
 : 9:00-10:30, April 24
@@ -20,6 +21,7 @@ Bio
 
 
 # Human-Data Interaction: Data Visualization and Beyond<br/><small>Prof. Bongshin Lee<br/>Yonsei University</small> {#bongshin_lee}
+*Chair: Kwan-Liu Ma*
 
 Date
 : 09:00-10:00, April 26
