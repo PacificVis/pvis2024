@@ -6,7 +6,6 @@ date: 2023-03-20
 ---
 
 # April 24th (Wednesday) 11:00-12:30 Fast Forward; Posters & Storytelling 1
-*Fast Forward Moderators: Masahiko Itoh and Juanjuan Long*
 
 [Visual Data Storytelling Contest](https://visstory.github.io/#shortlist)
 

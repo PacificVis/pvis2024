@@ -9,7 +9,7 @@ date: 2023-03-19
 
 - <span class="track track_tvcg">tvcg</span> Papers accepted in Journal track (15 min)
 - <span class="track track_conf">conf</span> Papers accepted in Conference track (12 min)
-- <span class="track track_note">note</span> Papers accepted in Visualization Notes track (8 min)
+- <span class="track track_note">note</span> Papers accepted in Visualization Notes track (10 min)
 
 ---
 
