@@ -53,7 +53,7 @@ Yu Tzu Wu and Eric Fujiwara<!-- poster_id: poster_1037 -->
 
 
 
-# April 25th (Thursday) 11:30-12:30 Posters & Storytelling 2
+# April 25th (Thursday) 11:20-12:20 Posters & Storytelling 2
 
 [Visual Data Storytelling Contest](https://visstory.github.io/#shortlist)
 
