@@ -9,7 +9,7 @@ date: 2023-02-04
 *Chair: Issei Fujishiro*
 
 Date
-: 9:00-10:30, April 24
+: 9:30-10:30, April 24
 
 Abstract
 : Data storytelling involves crafting a compelling story around data, using a combination of visualizations, text, and multimedia elements to convey a message that resonates with the audience. In this keynote, we will present our research on data storytelling, focusing on guidelines for crafting effective openings and endings in data videos, using Freytag's Pyramid to create structured data stories, and exploring the potential of human-AI collaboration in data storytelling. We will share insights on creating effective data-GIFs and provide suggestions for improving their understandability. Drawing on cinematic arts, we will present guidelines for creating cinematic openings and endings in data videos. Finally, we will discuss the potential of AI to support humans in data storytelling and identify research opportunities for human-AI collaboration in this field.
