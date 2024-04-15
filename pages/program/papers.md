@@ -173,7 +173,7 @@ Xiao-Han Li, Yi-Ting Hung, Jia-Yu Pan, and Wen-Chieh Lin<!-- article_id: 1706986
 
 
 # Apr 26 (Fri), 10:15-11:15<br/>*Visualization Technique, Graph and Time-series Visualization*
-*Session Chair: To be announced*
+*Session Chair: Le Liu (Northwestern Polytechnical University)*
 
 <span class="track track_note">note</span> **Depth-Box VDB: Accelerate Sparse Volume Rendering with Depth Maps through Voxel Database**\
 Keyue Xu, Jiapu Zhao, and Yubo Tao<!-- article_id: 1707746717161 -->
@@ -195,7 +195,7 @@ Franziska Becker and Tanja Blascheck<!-- article_id: 1707809062121 -->
 
 
 # Apr 26 (Fri), 11:15-12:15<br/>*AI+VIS and Visual Analytics Application*
-*Session Chair: To be announced*
+*Session Chair: Min Lu (Shenzhen University)*
 
 <span class="track track_note">note</span> **Evaluating how interactive visualizations can assist in finding samples where and how computer vision models make mistakes** <span class="tag tag_remote_presentation">remote</span>\
 Hayeong Song, Gonzalo Ramos, and Peter Bodik<!-- article_id: 1707679276968 -->
