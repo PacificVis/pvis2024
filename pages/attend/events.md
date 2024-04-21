@@ -16,7 +16,7 @@ date: 2023-02-04
 ## Welcome Reception: April 23 (Tue)
 
 Date & Time
-: April 23 (Tue) 18:00-21:00
+: April 23 (Tue) 18:30-21:00
 
 Location
 : [Alice Aqua Garden Tamachi](https://gurunavi.com/en/g105306/rst/?__ngt__=TT1537dbf9a007ac1e4ae124uGAizro0Os4uvl15Dp9FRy)
