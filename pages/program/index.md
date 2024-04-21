@@ -25,4 +25,4 @@ date: 2024-03-21
 	<area shape=rect coords="56,80,228,152" href="/pvis2024/program/jkc7/">
 	<area shape=rect coords="632,80,804,128" href="/pvis2024/program/keynote/#bongshin_lee">
 </map>
-<img border=0 src="/pvis2024/assets/images/program/pvis2024.png" usemap="#GraffleExport">
+<img style="max-width: none" border=0 src="/pvis2024/assets/images/program/pvis2024.png" usemap="#GraffleExport">
