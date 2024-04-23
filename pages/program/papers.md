@@ -165,7 +165,7 @@ Changjian Chen, Jiashu Chen, Weikai Yang, Haoze Wang, Johannes Knittel, Xibin Zh
 <span class="track track_tvcg">tvcg</span> **Struggles and Strategies in Understanding Information Visualizations**\
 Maryam Rezaie, Melanie Tory, and Sheelagh Carpendale<!-- article_id: 1703916205362 -->
 
-<span class="track track_tvcg">tvcg</span> **Exploring Mid-Air Hand Interaction in Data Visualization**\
+<span class="track track_tvcg">tvcg</span> **Exploring Mid-Air Hand Interaction in Data Visualization** <span class="tag tag_remote_presentation">remote</span>\
 Zona Kostic, Catherine Dumas, Sarah Pratt, and Johanna Beyer<!-- article_id: TVCG.2023.3332647 -->
 
 <span class="track track_conf">conf</span> **VisCollage: Annotative Collages for Organizing Data Event Charts**\
