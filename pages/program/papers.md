@@ -153,7 +153,7 @@ Wei Zhang, Kam-Kwai Wong, Yitian Chen, Ailing Jia, Luwei Wang, Jian-Wei Zhang, L
 <span class="track track_tvcg">tvcg</span> **TacPrint: Visualizing the Biomechanical Fingerprint in Table Tennis**\
 Jiachen Wang, Ji Ma, Zheng Zhou, Xiao Xie, Hui Zhang, Yingcai Wu, and Huamin Qu<!-- article_id: 1703644130115 -->
 
-<span class="track track_tvcg">tvcg</span> **A Comprehensive Evaluation Framework of Software Visualization Effectiveness**\
+<span class="track track_tvcg">tvcg</span> **A Comprehensive Evaluation Framework of Software Visualization Effectiveness** <span class="tag tag_remote_presentation">remote</span>\
 Hakam Alomari,Hakam W. Alomari, Christopher Vendome, and Lane Rizkallah<!-- article_id: TVCG.2023.3321211 -->
 
 <span class="track track_tvcg">tvcg</span> **Same Data, Diverging Perspectives: the Power of Visualizations to Elicit Competing Interpretations**\
