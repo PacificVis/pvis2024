@@ -24,6 +24,7 @@ Chair of PacificVis Steering Committee
 
 ## News
 
+- Award information is added to the program pages.  (2024-04-30)
 - A handy conference flyer comes in two formats, [for printing](/pvis2024/assets/pvis_program_2up.pdf) and [for digital use](/pvis2024/assets/pvis_program.pdf).  (2024-04-10)
 - [A PowerPoint template](/pvis2024/assets/PacificVis2024_template.pptx) for presentations is added.  (2024-04-08)
 - [Details of the invited talks for the workshop](/pvis2024/program/workshop/) is added. (2024-03-25)
