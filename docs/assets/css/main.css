@@ -5086,7 +5086,7 @@ span.track_note {
   color: white;
 }
 
-span.tag_remote_presentation {
+span.tag_remote {
   background-color: gray;
   color: white;
   font-weight: normal;
@@ -5105,6 +5105,15 @@ span.track_poster {
 span.track_workshop_short {
   background-color: rgb(0, 30, 98);
   color: white;
+}
+
+span.tag_Best_paper, span.tag_Best_poster {
+  background-color: gold;
+  color: darkblue;
+}
+
+span.tag_Honorable_mention, span.tag_Honorable_Mention {
+  background-color: skyblue;
 }
 
 /*# sourceMappingURL=main.css.map */
