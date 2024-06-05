@@ -23,7 +23,7 @@ Chair of PacificVis Steering Committee
 
 
 ## News
-
+- PacificVis 2024 Conference Proceedings (Conference Track papers, VisNotes papers, and Visualization Meets AI Workshop papers) are included in the IEEE Xplore (2024-06-04)
 - Award information is added to the program pages.  (2024-04-30)
 - A handy conference flyer comes in two formats, [for printing](/pvis2024/assets/pvis_program_2up.pdf) and [for digital use](/pvis2024/assets/pvis_program.pdf).  (2024-04-10)
 - [A PowerPoint template](/pvis2024/assets/PacificVis2024_template.pptx) for presentations is added.  (2024-04-08)
